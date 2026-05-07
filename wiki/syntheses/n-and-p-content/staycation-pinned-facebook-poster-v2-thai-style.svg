@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">N&amp;P Muaythai Camp Staycation Poster V2 Thai Style</title>
+  <desc id="desc">Square red and gold Thai-style Facebook pinned poster for Muay Thai staycation at N&amp;P Muaythai Camp Rama 2 Bangkok.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9c001d"/>
+      <stop offset="0.46" stop-color="#7b0018"/>
+      <stop offset="1" stop-color="#b10624"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff08a"/>
+      <stop offset="0.45" stop-color="#ffd34d"/>
+      <stop offset="1" stop-color="#f2a71b"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#250008" flood-opacity="0.45"/>
+    </filter>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scratch" width="180" height="180" patternUnits="userSpaceOnUse" patternTransform="rotate(-18)">
+      <path d="M18 18 L152 15 M42 70 L175 62 M10 128 L96 120 M120 154 L178 148" stroke="#ffffff" stroke-width="2" opacity="0.08" stroke-linecap="round"/>
+    </pattern>
+    <style>
+      .thai { font-family: 'Arial Unicode MS','Th Sarabun New','Tahoma',sans-serif; }
+      .sans { font-family: Impact, 'Arial Black', Arial, sans-serif; letter-spacing: 1px; }
+      .body { font-family: Arial, 'Arial Unicode MS', Tahoma, sans-serif; }
+      .small { font-size: 24px; }
+      .mid { font-size: 34px; }
+      .white { fill: #ffffff; }
+      .navy { fill: #082447; }
+      .red { fill: #a60020; }
+      .goldText { fill: url(#gold); stroke: #8b2b00; stroke-width: 2; paint-order: stroke; }
+      .outline { stroke: #111111; stroke-width: 4; }
+    </style>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect width="1080" height="1080" fill="url(#scratch)"/>
+
+  <!-- light flares -->
+  <g opacity="0.95" filter="url(#softGlow)">
+    <g transform="translate(928 120)">
+      <circle r="8" fill="#fff7bb"/>
+      <path d="M-70 0 H70 M0 -70 V70 M-45 -45 L45 45 M-45 45 L45 -45" stroke="#ffd45a" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(150 936) scale(.78)">
+      <circle r="8" fill="#fff7bb"/>
+      <path d="M-70 0 H70 M0 -70 V70 M-45 -45 L45 45 M-45 45 L45 -45" stroke="#ffd45a" stroke-width="5" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- logo block -->
+  <g transform="translate(88 54)">
+    <rect x="0" y="0" width="186" height="118" rx="8" fill="#0f3c75" stroke="#fff" stroke-width="4"/>
+    <path d="M18 22 H168 M30 46 H156" stroke="#ffffff" stroke-width="3" opacity="0.85"/>
+    <text x="93" y="58" text-anchor="middle" class="sans" font-size="25" fill="#fff">P.PAO-IN</text>
+    <text x="93" y="84" text-anchor="middle" class="body" font-size="18" fill="#fff">MUAYTHAI</text>
+    <text x="93" y="106" text-anchor="middle" class="body" font-size="17" fill="#fff">2009</text>
+    <text x="93" y="154" text-anchor="middle" class="thai" font-size="26" fill="#fff">N&amp;P BOXING GYM</text>
+    <text x="93" y="183" text-anchor="middle" class="thai" font-size="24" fill="#fff">ค่ายมวย ข.เปาอินทร์</text>
+    <text x="93" y="212" text-anchor="middle" class="thai" font-size="24" fill="#fff">พระราม 2</text>
+  </g>
+
+  <!-- header -->
+  <text x="590" y="112" text-anchor="middle" class="thai goldText" font-size="82" font-weight="900" filter="url(#shadow)">แพ็กเกจสเตย์เคชั่น</text>
+  <text x="590" y="169" text-anchor="middle" class="sans" font-size="36" fill="#fff" opacity="0.96">MUAY THAI STAYCATION</text>
+  <text x="590" y="216" text-anchor="middle" class="thai" font-size="34" fill="#fff">กิน • นอน • ซ้อมมวย • ใช้ชีวิตแบบนักมวยไทย</text>
+
+  <!-- main left panel -->
+  <g filter="url(#shadow)">
+    <text x="327" y="305" text-anchor="middle" class="thai" font-size="42" font-weight="900" fill="#ffffff" stroke="#082447" stroke-width="5" paint-order="stroke">ราคาแพ็กเกจ</text>
+
+    <rect x="84" y="330" width="498" height="96" rx="17" fill="#fff" stroke="#111" stroke-width="4"/>
+    <text x="130" y="390" class="thai red" font-size="35" font-weight="900">1 วัน</text>
+    <text x="334" y="392" text-anchor="middle" class="sans" font-size="52" fill="#111">1,000</text>
+    <text x="505" y="390" text-anchor="end" class="thai" font-size="34" fill="#111">บาท</text>
+
+    <rect x="84" y="444" width="498" height="96" rx="17" fill="#fff" stroke="#111" stroke-width="4"/>
+    <text x="130" y="504" class="thai red" font-size="35" font-weight="900">1 เดือน</text>
+    <text x="340" y="506" text-anchor="middle" class="sans" font-size="52" fill="#111">25,000</text>
+    <text x="505" y="504" text-anchor="end" class="thai" font-size="34" fill="#111">บาท</text>
+  </g>
+
+  <!-- hot badges -->
+  <g transform="translate(66 319)">
+    <path d="M49 0 L61 22 L88 13 L75 39 L101 51 L72 59 L80 88 L53 73 L32 94 L29 63 L0 62 L24 43 L10 17 L39 25 Z" fill="#ffef35" stroke="#e2181d" stroke-width="4"/>
+    <text x="50" y="57" text-anchor="middle" class="sans" font-size="24" fill="#e2181d" transform="rotate(-12 50 50)">HOT!</text>
+  </g>
+  <g transform="translate(66 433)">
+    <path d="M49 0 L61 22 L88 13 L75 39 L101 51 L72 59 L80 88 L53 73 L32 94 L29 63 L0 62 L24 43 L10 17 L39 25 Z" fill="#ffef35" stroke="#e2181d" stroke-width="4"/>
+    <text x="50" y="57" text-anchor="middle" class="sans" font-size="24" fill="#e2181d" transform="rotate(-12 50 50)">HOT!</text>
+  </g>
+
+  <!-- right white info card -->
+  <g filter="url(#shadow)">
+    <rect x="620" y="304" width="360" height="380" rx="18" fill="#ffffff" stroke="#fff" stroke-width="2"/>
+    <text x="800" y="354" text-anchor="middle" class="thai navy" font-size="34" font-weight="900">ในแพ็กเกจมีอะไรบ้าง</text>
+    <line x1="674" y1="383" x2="926" y2="383" stroke="#d4a33c" stroke-width="2"/>
+
+    <text x="800" y="432" text-anchor="middle" class="thai navy" font-size="31">ซ้อมมวย 2 รอบ / วัน</text>
+    <text x="800" y="475" text-anchor="middle" class="thai navy" font-size="31">ที่พักในแคมป์</text>
+    <text x="800" y="518" text-anchor="middle" class="thai navy" font-size="31">อาหารเช้าและเย็น</text>
+    <text x="800" y="561" text-anchor="middle" class="thai navy" font-size="31">ครูมวยประสบการณ์สูง</text>
+    <text x="800" y="604" text-anchor="middle" class="thai navy" font-size="31">เหมาะสำหรับทุกระดับ</text>
+
+    <line x1="674" y1="634" x2="926" y2="634" stroke="#d4a33c" stroke-width="2"/>
+    <text x="800" y="674" text-anchor="middle" class="thai red" font-size="26" font-weight="800">สอบถามวันว่างก่อนจอง</text>
+  </g>
+
+  <!-- wide English positioning panel -->
+  <g filter="url(#shadow)">
+    <rect x="92" y="590" width="490" height="152" rx="20" fill="#ffffff" stroke="#111" stroke-width="4"/>
+    <text x="337" y="638" text-anchor="middle" class="sans" font-size="32" fill="#09274d">TRAIN LIKE A CHAMPION</text>
+    <text x="337" y="682" text-anchor="middle" class="sans" font-size="32" fill="#09274d">LIVE LIKE A LOCAL</text>
+    <text x="337" y="718" text-anchor="middle" class="body" font-size="23" fill="#9c001d">Rama 2, Bangkok • Beginner to Pro</text>
+  </g>
+
+  <!-- CTA white card -->
+  <g filter="url(#shadow)">
+    <rect x="620" y="718" width="360" height="154" rx="18" fill="#ffffff"/>
+    <text x="800" y="770" text-anchor="middle" class="thai navy" font-size="34" font-weight="900">จอง / สอบถาม</text>
+    <text x="800" y="814" text-anchor="middle" class="body" font-size="29" fill="#111">LINE: @ppaoin</text>
+    <text x="800" y="852" text-anchor="middle" class="body" font-size="28" fill="#111">CALL: 081-445-5844</text>
+  </g>
+
+  <!-- bottom yellow CTA -->
+  <g filter="url(#shadow)">
+    <rect x="124" y="806" width="440" height="124" rx="62" fill="#ffe676"/>
+    <text x="344" y="858" text-anchor="middle" class="thai red" font-size="34" font-weight="900">มาใช้ชีวิตนักมวยไทย</text>
+    <text x="344" y="900" text-anchor="middle" class="thai red" font-size="34" font-weight="900">ที่ค่ายมวย ข.เปาอินทร์</text>
+  </g>
+
+  <!-- QR placeholder styled like original poster, not actual scannable QR -->
+  <g transform="translate(813 904)">
+    <rect x="0" y="0" width="132" height="132" rx="13" fill="#fff"/>
+    <rect x="16" y="16" width="32" height="32" fill="#111"/><rect x="84" y="16" width="32" height="32" fill="#111"/><rect x="16" y="84" width="32" height="32" fill="#111"/>
+    <g fill="#111" opacity="0.95">
+      <rect x="59" y="20" width="10" height="10"/><rect x="72" y="32" width="10" height="10"/><rect x="58" y="58" width="10" height="10"/><rect x="92" y="62" width="10" height="10"/>
+      <rect x="34" y="60" width="10" height="10"/><rect x="54" y="84" width="10" height="10"/><rect x="74" y="79" width="10" height="10"/><rect x="94" y="94" width="10" height="10"/>
+      <rect x="58" y="106" width="10" height="10"/><rect x="112" y="70" width="10" height="10"/>
+    </g>
+    <text x="66" y="76" text-anchor="middle" class="sans" font-size="20" fill="#111">LINE</text>
+  </g>
+  <text x="748" y="934" text-anchor="end" class="thai" font-size="24" fill="#fff">ADD LINE</text>
+  <text x="748" y="965" text-anchor="end" class="thai" font-size="22" fill="#fff">สอบถามเพิ่มเติม</text>
+  <text x="748" y="994" text-anchor="end" class="body" font-size="22" fill="#fff">@PPAOINMUAYTHAI</text>
+
+  <!-- safe fine print -->
+  <text x="540" y="1052" text-anchor="middle" class="body" font-size="18" fill="#ffe7a0">Package details and availability should be confirmed before booking. Location: Rama 2, Bangkok, Thailand.</text>
+</svg>

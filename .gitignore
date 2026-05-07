@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.claude/settings.local.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

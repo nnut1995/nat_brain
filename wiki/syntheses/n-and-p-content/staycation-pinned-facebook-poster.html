@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>N&P Muaythai Camp — Staycation Poster</title>
+<style>
+  :root {
+    --ink: #f8f2df;
+    --muted: #d9c08a;
+    --red: #d4261f;
+    --deep-red: #8d1410;
+    --black: #090806;
+    --charcoal: #17130f;
+    --gold: #e2b954;
+    --line: rgba(248,242,223,.25);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background: #111;
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  .poster {
+    width: 1080px;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+    color: var(--ink);
+    background:
+      radial-gradient(circle at 20% 20%, rgba(226,185,84,.16), transparent 26%),
+      radial-gradient(circle at 80% 15%, rgba(212,38,31,.30), transparent 28%),
+      linear-gradient(135deg, #080705 0%, #18120e 48%, #090806 100%);
+  }
+
+  .poster::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px),
+      linear-gradient(0deg, rgba(255,255,255,.025) 1px, transparent 1px);
+    background-size: 42px 42px;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,.72), transparent 82%);
+  }
+
+  .poster::after {
+    content: "MUAY THAI";
+    position: absolute;
+    right: -58px;
+    top: 108px;
+    writing-mode: vertical-rl;
+    font-size: 120px;
+    font-weight: 950;
+    letter-spacing: -4px;
+    color: transparent;
+    -webkit-text-stroke: 2px rgba(248,242,223,.10);
+    text-stroke: 2px rgba(248,242,223,.10);
+  }
+
+  .frame {
+    position: absolute;
+    inset: 42px;
+    border: 2px solid var(--line);
+    border-radius: 34px;
+  }
+
+  .topbar {
+    position: absolute;
+    left: 72px;
+    right: 72px;
+    top: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    text-transform: uppercase;
+    letter-spacing: 3.2px;
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--muted);
+  }
+
+  .badge {
+    border: 1.5px solid rgba(226,185,84,.72);
+    color: var(--gold);
+    border-radius: 999px;
+    padding: 12px 20px;
+    font-size: 20px;
+    letter-spacing: 2.8px;
+    background: rgba(0,0,0,.25);
+  }
+
+  .content {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    padding: 132px 74px 64px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .location {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    width: fit-content;
+    margin-top: 8px;
+    padding: 12px 18px;
+    border-radius: 14px;
+    background: rgba(212,38,31,.20);
+    color: var(--ink);
+    font-weight: 900;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+
+  .hero {
+    margin-top: 26px;
+    max-width: 790px;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 118px;
+    line-height: .86;
+    letter-spacing: -6px;
+    font-weight: 1000;
+    text-transform: uppercase;
+  }
+
+  .highlight {
+    color: var(--red);
+    text-shadow: 0 12px 34px rgba(212,38,31,.35);
+  }
+
+  .subhead {
+    margin-top: 24px;
+    max-width: 760px;
+    font-size: 34px;
+    line-height: 1.12;
+    font-weight: 760;
+    color: #fff7df;
+  }
+
+  .includes {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    max-width: 760px;
+  }
+
+  .item {
+    min-height: 104px;
+    border: 1.5px solid rgba(248,242,223,.17);
+    border-radius: 22px;
+    padding: 20px 22px;
+    background: rgba(255,255,255,.055);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.08);
+  }
+
+  .item b {
+    display: block;
+    font-size: 28px;
+    line-height: 1.05;
+    color: var(--ink);
+  }
+
+  .item span {
+    display: block;
+    margin-top: 6px;
+    font-size: 18px;
+    line-height: 1.1;
+    color: rgba(248,242,223,.70);
+    font-weight: 650;
+  }
+
+  .price-row {
+    margin-top: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    max-width: 790px;
+  }
+
+  .price {
+    border-radius: 30px;
+    padding: 24px 24px 26px;
+    background: linear-gradient(135deg, var(--red), var(--deep-red));
+    box-shadow: 0 22px 60px rgba(212,38,31,.34);
+  }
+
+  .price.secondary {
+    background: rgba(0,0,0,.40);
+    border: 1.5px solid rgba(226,185,84,.55);
+    box-shadow: none;
+  }
+
+  .price small {
+    display: block;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 900;
+    color: rgba(248,242,223,.78);
+  }
+
+  .amount {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-top: 6px;
+  }
+
+  .amount strong {
+    font-size: 58px;
+    line-height: 1;
+    letter-spacing: -2px;
+  }
+
+  .amount span {
+    font-size: 24px;
+    font-weight: 900;
+    color: rgba(248,242,223,.78);
+  }
+
+  .footer {
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    gap: 24px;
+    color: rgba(248,242,223,.86);
+  }
+
+  .contact {
+    font-size: 24px;
+    line-height: 1.3;
+    font-weight: 800;
+  }
+
+  .contact b { color: var(--gold); }
+
+  .cta {
+    text-align: right;
+    font-size: 30px;
+    line-height: 1.05;
+    font-weight: 950;
+    text-transform: uppercase;
+    color: #fff4d4;
+  }
+
+  .fineprint {
+    position: absolute;
+    left: 74px;
+    bottom: 38px;
+    right: 74px;
+    font-size: 15px;
+    line-height: 1.25;
+    color: rgba(248,242,223,.50);
+  }
+
+  .circle {
+    position: absolute;
+    width: 390px;
+    height: 390px;
+    border-radius: 999px;
+    right: 64px;
+    top: 324px;
+    background:
+      radial-gradient(circle at 50% 45%, rgba(226,185,84,.16), transparent 47%),
+      conic-gradient(from 20deg, rgba(212,38,31,.82), rgba(226,185,84,.50), rgba(212,38,31,.82));
+    opacity: .32;
+    filter: blur(.2px);
+  }
+
+  .circle::after {
+    content: "";
+    position: absolute;
+    inset: 18px;
+    border-radius: inherit;
+    background: var(--black);
+  }
+
+  @media print {
+    body { background: white; }
+    .poster { width: 1080px; height: 1080px; }
+  }
+</style>
+</head>
+<body>
+  <main class="poster" aria-label="N&P Muaythai Camp staycation poster">
+    <div class="frame"></div>
+    <div class="circle"></div>
+
+    <div class="topbar">
+      <div>N&P Muaythai Camp</div>
+      <div class="badge">Rama 2, Bangkok</div>
+    </div>
+
+    <section class="content">
+      <div class="location">Muay Thai Staycation</div>
+
+      <div class="hero">
+        <h1>Eat.<br>Sleep.<br><span class="highlight">Train.</span><br>Repeat.</h1>
+        <div class="subhead">Live the Muay Thai lifestyle with fighter-led training, on-site stay, and daily meals.</div>
+      </div>
+
+      <div class="includes" aria-label="Package inclusions">
+        <div class="item"><b>2x Training / Day</b><span>Morning & evening professional fighter-led sessions</span></div>
+        <div class="item"><b>On-site Stay</b><span>Recover close to the gym after training</span></div>
+        <div class="item"><b>Breakfast & Dinner</b><span>Daily meals included in the staycation offer</span></div>
+        <div class="item"><b>Beginner to Pro</b><span>Authentic training for every level</span></div>
+      </div>
+
+      <div class="price-row">
+        <div class="price">
+          <small>Per day</small>
+          <div class="amount"><strong>1,000</strong><span>THB</span></div>
+        </div>
+        <div class="price secondary">
+          <small>Per month</small>
+          <div class="amount"><strong>25,000</strong><span>THB</span></div>
+        </div>
+      </div>
+
+      <div class="footer">
+        <div class="contact">
+          Line: <b>@ppaoin</b><br>
+          Call: <b>081-445-5844</b>
+        </div>
+        <div class="cta">Message us<br>to confirm dates</div>
+      </div>
+    </section>
+
+    <div class="fineprint">Package details and availability should be confirmed before booking. Location: Rama 2, Bangkok, Thailand.</div>
+  </main>
+</body>
+</html>

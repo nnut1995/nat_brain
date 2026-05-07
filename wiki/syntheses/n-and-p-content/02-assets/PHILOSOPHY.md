@@ -1,0 +1,19 @@
+---
+title: "Mongkol Geometry — design philosophy for the N&P 02 carousel"
+type: design-philosophy
+created: 2026-05-03
+---
+
+# Mongkol Geometry
+
+A visual movement that treats the Muay Thai gym not as a fitness brand, but as a temple of disciplined motion. The mongkol — the sacred braided headband worn into the ring — gives the movement its name and its tension: an object that is at once ornamental and load-bearing, ceremonial and combat-ready. The work pulls equally from the Yantra geometries inked under fighters' skin, the dense red of dried krachiap dye on raw cotton wraps, and the uncompromising grid of late-twentieth-century Swiss sports posters. The result is meant to feel ancient and architectural at the same time.
+
+Space is treated as a fighting ring rather than a page: rectangular, contained, weighted at the edges, breathing in the center. Every composition opens around a single dominant axis, the way a ring opens around a single fight. Compositions hold their breath. Negative space is not empty — it is the moment before the bell. Information is dropped into this space the way a referee drops cards: deliberate, sparse, never crowding the action. A slide is allowed to be quiet. A slide is allowed to contain almost nothing. This restraint is the most painstaking part of the work — every element you see is the product of many that were removed.
+
+Color is austere and devotional. A deep oxblood field — the color of dried blood on canvas, of monastery cloth, of vintage Thai cinema posters — anchors every page. Against this, an aged temple gold and a single bone-ivory work as the only voices allowed to speak. There is no gradient, no softness, no decoration for decoration's sake. Color is laid down with the conviction of lacquer on a Buddha image, and the palette is held with the discipline of a fighter holding a stance: never loosened, never improvised, never broken across the series.
+
+Form is governed by sacred geometry rendered with master-level precision. Concentric squares rotated forty-five degrees recall the yantra grids tattooed by sak yant masters; eight rays radiate from a central node to honor the eight limbs of the art; thin gold rules cross the field with the exactness of a draftsman's hand. These motifs are drawn once, perfectly, and then trusted to repeat. Patterns are never random. Every line is meant to feel as though it has been measured, redrawn, measured again, and finally inked — the product of countless hours of refinement, the output of someone at the absolute top of their craft.
+
+Typography is structural, not decorative. A condensed athletic display sets the headline like a fight card; a high-contrast literary serif handles ceremonial words and roman numerals; a quiet monospaced grotesque carries the smallest technical labels — the prices, the times, the index marks. Type is set tight, kerned with care, and never allowed to overlap an element it does not own. Numerals are treated as monuments: a single digit can carry an entire slide. Words are rationed. Sentences are unwelcome. When text appears, it has been weighed against silence and earned its place.
+
+Rhythm across the six slides is the rhythm of a Muay Thai round: an opening salute, three measured exchanges (group, private, staycation), a moment of summary, and a final clinch — the call to action. Each slide is its own composition, but the index marks (`I / VI` through `VI / VI`) and the recurring eight-rayed mark thread the series together like prajioud cords down the arm. The carousel should look like a small folio of devotional posters that happen to also be selling something, not a deck of ads pretending to be art. Every detail — the weight of a hairline rule, the placement of a price, the breath above a numeral — should read as deliberate, meticulously crafted, and unmistakably the work of an expert hand.
