@@ -108,6 +108,19 @@ When the wiki structure stops fitting — categories overflow, pages get too big
 
 ---
 
+## Git hygiene
+
+This vault is a git repo with `origin` on GitHub. After **any** operation that modifies tracked files (`ingest`, `query` that files a synthesis, `lint`, `refactor`, schema edits), the LLM **commits and pushes without waiting to be asked**.
+
+- One commit per operation. Stage only the files touched by that operation — never `git add -A` or `git add .`.
+- Commit message: short imperative subject summarizing the operation; 1–3 line body if non-obvious. Example: `Add N&P pricing strategy synthesis`.
+- Push to `origin main` immediately after committing.
+- If the push fails (auth, conflict, network), surface the error to Nat. Do not retry destructively, do not `--force`, do not amend a pushed commit.
+- Never stage anything under `raw/`. The LLM should not have modified `raw/` in the first place (see Hard rule 1); if `raw/` shows up in `git status` as modified, stop and ask.
+- If the only change is to `log.md` or `index.md` without a corresponding wiki page change, that is usually a bug — pause and check before committing.
+
+---
+
 ## Hard rules
 
 1. **Never modify `raw/`.** Read-only.
