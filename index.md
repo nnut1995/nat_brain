@@ -1,7 +1,7 @@
 ---
 title: Index
 type: index
-updated: 2026-05-02
+updated: 2026-05-10
 ---
 
 # Index
@@ -41,6 +41,7 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 *Cross-source analyses, comparisons, filed query answers.*
 
 - [[wiki/syntheses/n-and-p-pricing-strategy]] — Yield-management pricing strategy for N&P: split unlimited into Off-Peak vs All-Access, re-anchor long tiers, cap peak bookings, lift privates; decide freelance vs hour-extension only after pricing reform.
+- [[wiki/syntheses/n-and-p-ice-bath-roi-and-pricing]] — ROI model and pricing strategy for a ~100,000 THB ice bath/cold plunge investment: avoid free unlimited use, launch with a 600 THB class + recovery bundle, and target 2+ paid uses/day for 12-month payback.
 - [[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]] — Social media content calendar, ad funnel, message templates, and first 2-week launch plan for N&P Boxing Gym.
 - [[wiki/syntheses/n-and-p-two-plans-local-and-staycation]] — Two-plan customer-acquisition split: Plan 1 (Thai locals, normal class) and Plan 2 (staycation foreigners), each with channels, ad funnel, content breakdown, and 30-day checklist.
 - [[wiki/syntheses/n-and-p-content/content-breakdown-index]] — One-page-per-content execution hub for N&P Boxing Gym social content and ad groups.
@@ -72,5 +73,5 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - Sources: **4**
 - Entities: **3**
 - Concepts: **5**
-- Syntheses: **25**
-- Last updated: 2026-05-09
+- Syntheses: **26**
+- Last updated: 2026-05-10

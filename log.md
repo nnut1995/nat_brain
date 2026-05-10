@@ -87,3 +87,10 @@ Filed a synthesis answering Nat's pricing + capacity-expansion question for [[wi
 - Core diagnosis: peak slots (18:00–19:00) are full of unlimited members whose marginal revenue per booking is ~0; the 1-mo unlimited undercuts the 10-pack at ≥12×/mo, and the 12-mo plan collapses to ~156 THB/session for 4×/week trainers — the highest-demand customers pay the lowest yield.
 - Five moves in order: (1) split unlimited into Off-Peak (14:00–17:00) vs All-Access (+30–40%), (2) re-anchor 6-mo/12-mo tiers, (3) soft cap of 12 peak bookings/mo on All-Access with 200 THB top-up, (4) lift private prices (privates use empty 07:00–12:00 slots, zero capacity competition), (5) only then evaluate freelance trainer at 18:00–20:00 vs extending hours to 22:00 — recommend freelance first (proven demand, variable cost, reversible) over hour extension (unproven late-evening demand, fixed costs).
 - Open questions flagged for the gym owner: monthly-plan private coverage, peak unlimited-vs-paid mix, active long-tier member count, booking-system gating capability, freelance trainer market rate.
+
+## [2026-05-10] query | N&P ice bath ROI and pricing strategy
+Filed a synthesis answering Nat's ice bath investment question for [[wiki/entities/n-and-p-boxing-gym]].
+- New synthesis page: [[wiki/syntheses/n-and-p-ice-bath-roi-and-pricing]].
+- Core ROI model: 100,000 THB capex; at 300 THB/session, 50 THB/session variable cost, and 3,000 THB/month fixed maintenance, 12-month payback requires ~45 sessions/month or ~1.7 sessions/day.
+- Recommended pricing: avoid free unlimited use; launch 350 THB standalone, 250 THB after-class add-on, 600 THB class + ice bath bundle, 2,500 THB 10-pack, and capped member recovery add-ons.
+- Decision rule: 2 paid uses/day likely supports 12-month payback; 5–6/day gives ~3–4 month payback; 10/day may pay back in under 2 months.
