@@ -94,3 +94,8 @@ Filed a synthesis answering Nat's ice bath investment question for [[wiki/entiti
 - Core ROI model: 100,000 THB capex; at 300 THB/session, 50 THB/session variable cost, and 3,000 THB/month fixed maintenance, 12-month payback requires ~45 sessions/month or ~1.7 sessions/day.
 - Recommended pricing: avoid free unlimited use; launch 350 THB standalone, 250 THB after-class add-on, 600 THB class + ice bath bundle, 2,500 THB 10-pack, and capped member recovery add-ons.
 - Decision rule: 2 paid uses/day likely supports 12-month payback; 5–6/day gives ~3–4 month payback; 10/day may pay back in under 2 months.
+
+## [2026-05-15] query | Correct N&P ice bath ROI arithmetic
+Rechecked the ROI math in [[wiki/syntheses/n-and-p-ice-bath-roi-and-pricing]] while answering Nat's query.
+- Corrected conservative scenario to 16,500 THB/month net profit and 6.1-month payback.
+- Corrected aggressive scenario to 62,000 THB/month net profit and 1.6-month payback.

@@ -2,7 +2,7 @@
 title: N&P Ice Bath ROI and Pricing Strategy
 type: synthesis
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-15
 tags: [pricing, roi, recovery, ice-bath, n-and-p]
 sources: ["[[wiki/sources/n-and-p-boxing-gym]]", "[[wiki/sources/2026-05-02-nandpmuaythai-com]]", "[[wiki/syntheses/n-and-p-pricing-strategy]]"]
 related: ["[[wiki/entities/n-and-p-boxing-gym]]"]
@@ -48,9 +48,9 @@ The vault had **no prior ice bath / cold plunge page**. This synthesis therefore
 
 | Scenario | Uses/day | Sessions/month | Revenue/month | Net profit/month | Payback |
 |---|---:|---:|---:|---:|---:|
-| Conservative | 3 | 78 | 23,400 THB | 17,500 THB | 5.7 months |
+| Conservative | 3 | 78 | 23,400 THB | 16,500 THB | 6.1 months |
 | Base | 6 | 156 | 46,800 THB | 36,000 THB | 2.8 months |
-| Aggressive | 10 | 260 | 78,000 THB | 60,000 THB | 1.7 months |
+| Aggressive | 10 | 260 | 78,000 THB | 62,000 THB | 1.6 months |
 | Package-heavy base | 6 | 156 | 39,000 THB | 28,200 THB | 3.5 months |
 
 Formula:

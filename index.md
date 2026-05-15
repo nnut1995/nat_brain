@@ -1,7 +1,7 @@
 ---
 title: Index
 type: index
-updated: 2026-05-10
+updated: 2026-05-15
 ---
 
 # Index
@@ -74,4 +74,4 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - Entities: **3**
 - Concepts: **5**
 - Syntheses: **26**
-- Last updated: 2026-05-10
+- Last updated: 2026-05-15
