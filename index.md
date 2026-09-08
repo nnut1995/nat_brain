@@ -27,6 +27,8 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - [[wiki/sources/chatgpt-history/conversations-003]] — ChatGPT history — Stay & Train, fighter offer, accommodation and branding.
 - [[wiki/sources/chatgpt-history/conversations-004]] — ChatGPT history — Equipment sourcing, facilities, attendance and systems.
 
+- [[wiki/sources/2026-09-08-nandpmuaythai-com]] — Live English/Thai website: one-week Stay & Train minimum, daily residential schedule, visitor/payment rules, and published-offer differences. *(note)*
+
 ## Entities
 *People, companies, products, places.*
 
@@ -83,7 +85,7 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 ---
 
 ## Stats
-- Sources: **9**
+- Sources: **10**
 - Entities: **4**
 - Concepts: **7**
 - Syntheses: **27**

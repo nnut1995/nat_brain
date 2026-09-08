@@ -45,3 +45,11 @@ raw: "[[raw/N & P Boxing gym]]"
 > ⚠️ Contradiction — June/July 2024 attendance has visits on the 15th/16th, unlike the later recurring closure rule. August/September explicitly confirm those closures. The policy-change date is not recorded. ([[wiki/sources/chatgpt-history/conversations-000]])
 
 The extracted history supplies a street address and equipment/first-visit details, plus August 2026 owner clarification of the Stay & Train inclusions and shorter stays. See [[wiki/entities/n-and-p-boxing-gym]] and [[wiki/syntheses/n-and-p-chatgpt-history-update]]. ([[wiki/sources/chatgpt-history/conversations-001]], [[wiki/sources/chatgpt-history/conversations-003]], [[wiki/sources/chatgpt-history/conversations-004]])
+
+### Live-site follow-up — 2026-09-08
+> ⚠️ Contradiction / scope correction — the live website distinguishes regular/private closure on the 15th/16th from **Stay & Train, which runs daily with no closure days**. Keep this source as a historical observation; do not apply its broad closure wording to the residential programme. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
+
+> [!warning] Published-offer difference
+> The live website lists no unlimited memberships or multi-session private passes. Historical prices remain recorded, but present availability is unconfirmed. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
+
+The live site also supplies a **one-week Stay & Train minimum**, afternoon check-in/noon checkout, approximate daily training windows, equipment-loan costs, payment methods, Thai/English instruction, and an explicit booking-confirmation rule. See the dated source for details. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])

@@ -4,10 +4,13 @@ type: synthesis
 created: 2026-05-03
 updated: 2026-09-08
 tags: [muay-thai, gym, marketing, social-media, ads, bangkok, staycation, customer-acquisition]
-sources: ["[[wiki/entities/n-and-p-boxing-gym]]", "[[wiki/sources/n-and-p-boxing-gym]]", "[[wiki/sources/2026-05-02-nandpmuaythai-com]]", "[[wiki/sources/pnboxing-facebook-page]]", "[[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]]", "[[wiki/syntheses/n-and-p-content/content-breakdown-index]]", "[[wiki/sources/chatgpt-history/conversations-000]]", "[[wiki/sources/chatgpt-history/conversations-001]]", "[[wiki/sources/chatgpt-history/conversations-003]]", "[[wiki/sources/chatgpt-history/conversations-004]]"]
+sources: ["[[wiki/entities/n-and-p-boxing-gym]]", "[[wiki/sources/n-and-p-boxing-gym]]", "[[wiki/sources/2026-05-02-nandpmuaythai-com]]", "[[wiki/sources/pnboxing-facebook-page]]", "[[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]]", "[[wiki/syntheses/n-and-p-content/content-breakdown-index]]", "[[wiki/sources/chatgpt-history/conversations-000]]", "[[wiki/sources/chatgpt-history/conversations-001]]", "[[wiki/sources/chatgpt-history/conversations-003]]", "[[wiki/sources/chatgpt-history/conversations-004]]", "[[wiki/sources/2026-09-08-nandpmuaythai-com]]"]
 ---
 
 # N&P — Two-Plan Customer Acquisition Strategy
+
+> [!warning] Live-offer check — 2026-09-08
+> Reconfirm unlimited memberships and multi-session private passes before using the older campaigns below: they are absent from the live offer list. Stay & Train now specifies a **one-week minimum**, daily training without closures, afternoon check-in and noon checkout. Use [[wiki/entities/n-and-p-boxing-gym]] for current visitor/payment/booking guidance. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
 
 > [!note] Why this page exists
 > The original [[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]] mixes two audiences. This page splits the work into two clean, parallel plans so each one has its own audience, language, channels, content, and ads.
@@ -198,7 +201,7 @@ All Plan 2 content **English-first**. Bilingual is acceptable but the hook line 
 ### Ad funnel (Plan 2)
 
 - **Campaign 2A — Staycation discovery (worldwide)** — Messages objective; broad targeting; interests Muay Thai/MMA/Thailand travel/martial arts; English-language video creative; 500–800 THB/day × 14 days; offer 1,000 THB/day.
-- **Campaign 2B — In-Thailand tourist** — Geo-target Thailand (excluding Rama 2 locals); travelers + expats interest; offer "Spend 3 days at a real Bangkok Muay Thai camp".
+- **Campaign 2B — In-Thailand tourist** — Geo-target Thailand (excluding Rama 2 locals); travelers + expats interest; offer "Spend a week at a real Bangkok Muay Thai camp" (website minimum: one week; [[wiki/sources/2026-09-08-nandpmuaythai-com]]).
 - **Campaign 2C — Digital nomad / monthly** — Target SEA digital-nomad interests; offer 25,000 THB/month.
 - **Campaign 2D — Staycation retargeting** — Anyone who watched ≥75% of staycation content or visited the website; carousel of inclusions; "DM to book your dates".
 

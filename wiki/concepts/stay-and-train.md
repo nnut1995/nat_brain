@@ -4,13 +4,19 @@ type: concept
 created: 2026-09-08
 updated: 2026-09-08
 tags: [muay-thai, n-and-p, chatgpt-history]
-sources: ["[[wiki/sources/chatgpt-history/conversations-003]]", "[[wiki/sources/2026-05-02-nandpmuaythai-com]]"]
+sources: ["[[wiki/sources/chatgpt-history/conversations-003]]", "[[wiki/sources/2026-05-02-nandpmuaythai-com]]", "[[wiki/sources/2026-09-08-nandpmuaythai-com]]"]
 ---
 
 # Stay & Train
 
 ## Definition
 At N&P, a residential training package combining lodging, two meals and morning/evening training alongside professional fighters. Nat's August 2026 reply instructions specify 1,000 THB/day or 25,000 THB/month and accept a 12–14-day stay. ([[wiki/sources/chatgpt-history/conversations-003]])
+
+## Published booking terms — checked 2026-09-08
+- Minimum **one week**, check-in **from the afternoon**, checkout **by noon**. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
+- Runs **every day, including the regular-class closure dates**, approximately **06:00–09:00 and 15:00–18:00**. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
+- Includes on-site lodging, breakfast, dinner and two daily sessions; 1,000 THB/day or 25,000 THB/month. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
+- Enquiries should include check-in/out dates and group experience; booking requires agreement with the gym. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
 
 ## Why it matters
 It serves visitors seeking a camp routine; the regular monthly small-group membership is a different product. The prospect emails show room amenities, trip length and affordability as actual booking questions. ([[wiki/sources/chatgpt-history/conversations-003]])
@@ -22,8 +28,9 @@ It serves visitors seeking a camp routine; the regular monthly small-group membe
 - Gym: [[wiki/entities/n-and-p-boxing-gym]]. Operational context: [[wiki/syntheses/n-and-p-chatgpt-history-update]].
 
 ## Open questions
-Exact room allocation/amenities, deposits, cancellation terms, closure-day treatment, and any fighter fee or waiver remain unspecified. ([[wiki/sources/chatgpt-history/conversations-003]])
+Exact room allocation/amenities, deposits, cancellation terms and any fighter fee or waiver remain unspecified. The September website clarifies closure-day treatment above. ([[wiki/sources/chatgpt-history/conversations-003]])
 
 ## Sources
 - [[wiki/sources/chatgpt-history/conversations-003]]
 - [[wiki/sources/2026-05-02-nandpmuaythai-com]]
+- [[wiki/sources/2026-09-08-nandpmuaythai-com]]

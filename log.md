@@ -104,3 +104,7 @@ Rechecked the ROI math in [[wiki/syntheses/n-and-p-ice-bath-roi-and-pricing]] wh
 Extracted gym-related material from five ChatGPT export files into five source pages; added an EXO Travel entity, Stay & Train and membership/check-in concepts, and a consolidated [[wiki/syntheses/n-and-p-chatgpt-history-update]].
 Updated the gym profile, two existing source cross-checks, acquisition plan and index with accommodation, individual fighter-offer status, agent bookings, branding/OEM requests and recalculated attendance; flagged historical pricing/session-length/closure differences and an old weekday-analysis error.
 Preserved raw exports and unrelated staged poster changes; separated owner statements, customer correspondence, historical facts and unadopted ChatGPT proposals.
+
+## [2026-09-08] ingest | Live N&P website visitor and booking context
+Read the English homepage and Thai version; added [[wiki/sources/2026-09-08-nandpmuaythai-com]] and updated the gym profile, Stay & Train concept, prior source cross-references, acquisition plan and index.
+Captured the one-week minimum, daily residential schedule, check-in/out, free equipment loans, payment/language guidance and enquiry confirmation; flagged unlisted historical memberships/private passes and corrected the scope of monthly closures. Raw files and unrelated staged poster work were preserved.

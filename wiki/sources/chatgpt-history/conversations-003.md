@@ -43,3 +43,6 @@ Source: [[raw/chatgpt-history/conversations-003.json]]. This is a **gym-only ext
 The old no-additional-fighters translation in [[wiki/sources/chatgpt-history/conversations-001]] and the later individual fighter proposal have different contexts; neither establishes general open recruitment. Room availability, occupancy, Wi-Fi, exact training times, and the ambiguous fighter fee remain open.
 
 See [[wiki/syntheses/n-and-p-chatgpt-history-update]] for the combined interpretation and follow-up list.
+
+### Later website clarification — 2026-09-08
+The live site now specifies a **one-week minimum**, afternoon check-in/noon checkout and **daily training without closures**, approximately 06:00–09:00 and 15:00–18:00. The 12–14-day stay discussed here is compatible. Deposits, refunds and room amenities remain unresolved on the site. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
