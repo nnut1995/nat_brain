@@ -2,7 +2,7 @@
 title: "N&P Muaythai Camp website"
 type: source
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-09-08
 tags: [muay-thai, gym, bangkok, website, reference]
 source_url: https://nandpmuaythai.com/
 source_type: note
@@ -46,3 +46,10 @@ raw: "[[ai-raw/2026-05-02-nandpmuaythai-com]]"
 - > ⚠️ Contradiction with [[wiki/sources/pnboxing-facebook-page]]: the website says the gym remains open on public holidays, but the Facebook preview shows a Songkran closure announcement for Apr 13–16.
 - The staycation package copy does not specify whether the listed price includes food, lodging, and all training for both daily and monthly options or how bookings work.
 - The site does not clearly distinguish whether monthly unlimited access applies only to regular classes or also to private training.
+
+### ChatGPT history cross-check — 2026-09-08
+> ⚠️ Contradiction — older gym copy and price image list 300 THB single, 2,500 THB ten, 500 THB private and a 90-minute regular workout, versus this source's 400/3,500/700 THB and 60-minute regular format. Historical versions are preserved; the change date is unknown. ([[wiki/sources/chatgpt-history/conversations-001]], [[wiki/sources/chatgpt-history/conversations-004]])
+
+> ⚠️ Contradiction — June/July 2024 attendance has visits on the 15th/16th, unlike the later recurring closure rule. August/September explicitly confirm those closures. The policy-change date is not recorded. ([[wiki/sources/chatgpt-history/conversations-000]])
+
+The extracted history supplies a street address and equipment/first-visit details, plus August 2026 owner clarification of the Stay & Train inclusions and shorter stays. See [[wiki/entities/n-and-p-boxing-gym]] and [[wiki/syntheses/n-and-p-chatgpt-history-update]]. ([[wiki/sources/chatgpt-history/conversations-001]], [[wiki/sources/chatgpt-history/conversations-003]], [[wiki/sources/chatgpt-history/conversations-004]])

@@ -1,7 +1,7 @@
 ---
 title: Index
 type: index
-updated: 2026-05-15
+updated: 2026-09-08
 ---
 
 # Index
@@ -21,12 +21,20 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - [[wiki/sources/pnboxing-facebook-page]] — Public Facebook preview for the gym; confirms branding, contact details, and a Songkran closure announcement. *(note)*
 - [[wiki/sources/2026-05-02-nandpmuaythai-com]] — Official website crawl; confirms branding, class formats, pricing, schedule, and staycation package. *(note)*
 
+- [[wiki/sources/chatgpt-history/conversations-000]] — ChatGPT history — Attendance and early marketing.
+- [[wiki/sources/chatgpt-history/conversations-001]] — ChatGPT history — Agent bookings and student records.
+- [[wiki/sources/chatgpt-history/conversations-002]] — ChatGPT history — Wayfinding and billing requests.
+- [[wiki/sources/chatgpt-history/conversations-003]] — ChatGPT history — Stay & Train, fighter offer, accommodation and branding.
+- [[wiki/sources/chatgpt-history/conversations-004]] — ChatGPT history — Equipment sourcing, facilities, attendance and systems.
+
 ## Entities
 *People, companies, products, places.*
 
 - [[wiki/entities/vannevar-bush]] — Engineer who proposed the Memex (1945), the conceptual ancestor of this wiki pattern.
 - [[wiki/entities/obsidian]] — Markdown editor used as the front-end IDE for browsing the wiki.
 - [[wiki/entities/n-and-p-boxing-gym]] — Muay Thai gym in Rama 2, Bangkok (a.k.a. P.Paoin Muay Thai).
+
+- [[wiki/entities/exo-travel]] — EXO Travel.
 
 ## Concepts
 *Ideas, frameworks, themes.*
@@ -36,6 +44,9 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - [[wiki/concepts/memex]] — Bush's 1945 vision of personal, associative knowledge stores.
 - [[wiki/concepts/three-layer-architecture]] — Raw sources / wiki / schema separation that defines the pattern.
 - [[wiki/concepts/muay-thai]] — Thai martial art / combat sport (stub — topic seed for gym & training sources).
+
+- [[wiki/concepts/stay-and-train]] — Stay & Train.
+- [[wiki/concepts/gym-membership-and-check-in]] — Gym membership and check-in.
 
 ## Syntheses
 *Cross-source analyses, comparisons, filed query answers.*
@@ -67,11 +78,13 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - [[wiki/syntheses/n-and-p-content/20-advanced-pro-fighter-prep]] — Advanced and Pro Fighter Prep content execution page with shoot list, caption, CTA, and ad group.
 - [[wiki/syntheses/n-and-p-content/staycation-pinned-facebook-poster]] — Pinned Facebook poster brief, caption, ad group, and the v4 *Sacred Repetition* PNG (1080×1080, museum-quality canvas-design render) plus prior SVG/HTML/PNG variants.
 
+- [[wiki/syntheses/n-and-p-chatgpt-history-update]] — N&P Muay Thai — knowledge recovered from ChatGPT history.
+
 ---
 
 ## Stats
-- Sources: **4**
-- Entities: **3**
-- Concepts: **5**
-- Syntheses: **26**
-- Last updated: 2026-05-15
+- Sources: **9**
+- Entities: **4**
+- Concepts: **7**
+- Syntheses: **27**
+- Last updated: 2026-09-08

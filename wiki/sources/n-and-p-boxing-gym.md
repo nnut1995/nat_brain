@@ -2,7 +2,7 @@
 title: "N&P Boxing Gym — Operational and Pricing Overview"
 type: source
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-09-08
 tags: [muay-thai, gym, bangkok, reference]
 source_url: (internal note)
 source_type: note
@@ -38,3 +38,10 @@ raw: "[[raw/N & P Boxing gym]]"
 - Source does not specify whether monthly memberships also grant access to private sessions or only group classes — assumed group-only based on phrasing ("unlimited access to standard class sessions").
 - Source does not specify trainer credentials, fighter roster, or gym lineage.
 - > ⚠️ Contradiction with [[wiki/sources/pnboxing-facebook-page]]: the earlier note says public holidays are open as normal, but the Facebook page shows a Songkran closure announcement for Apr 13–16.
+
+### ChatGPT history cross-check — 2026-09-08
+> ⚠️ Contradiction — older gym copy and price image list 300 THB single, 2,500 THB ten, 500 THB private and a 90-minute regular workout, versus this source's 400/3,500/700 THB and 60-minute regular format. Historical versions are preserved; the change date is unknown. ([[wiki/sources/chatgpt-history/conversations-001]], [[wiki/sources/chatgpt-history/conversations-004]])
+
+> ⚠️ Contradiction — June/July 2024 attendance has visits on the 15th/16th, unlike the later recurring closure rule. August/September explicitly confirm those closures. The policy-change date is not recorded. ([[wiki/sources/chatgpt-history/conversations-000]])
+
+The extracted history supplies a street address and equipment/first-visit details, plus August 2026 owner clarification of the Stay & Train inclusions and shorter stays. See [[wiki/entities/n-and-p-boxing-gym]] and [[wiki/syntheses/n-and-p-chatgpt-history-update]]. ([[wiki/sources/chatgpt-history/conversations-001]], [[wiki/sources/chatgpt-history/conversations-003]], [[wiki/sources/chatgpt-history/conversations-004]])
