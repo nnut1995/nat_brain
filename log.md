@@ -99,3 +99,7 @@ Filed a synthesis answering Nat's ice bath investment question for [[wiki/entiti
 Rechecked the ROI math in [[wiki/syntheses/n-and-p-ice-bath-roi-and-pricing]] while answering Nat's query.
 - Corrected conservative scenario to 16,500 THB/month net profit and 6.1-month payback.
 - Corrected aggressive scenario to 62,000 THB/month net profit and 1.6-month payback.
+
+## [2026-09-13] query | N&P Facebook Reel seven-day acquisition test
+Filed [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] after Nat confirmed the local Thai audience and 400 THB entry class.
+Recorded the 1,400 THB test, booking workflow, capacity check, and profit-based continuation rules; no ads launched or account integration performed. Updated index.
