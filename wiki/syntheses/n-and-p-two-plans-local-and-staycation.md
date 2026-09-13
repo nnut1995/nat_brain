@@ -2,12 +2,15 @@
 title: "N&P — Two-Plan Customer Acquisition Strategy (Local Class + Staycation Foreigner)"
 type: synthesis
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-09-08
 tags: [muay-thai, gym, marketing, social-media, ads, bangkok, staycation, customer-acquisition]
-sources: ["[[wiki/entities/n-and-p-boxing-gym]]", "[[wiki/sources/n-and-p-boxing-gym]]", "[[wiki/sources/2026-05-02-nandpmuaythai-com]]", "[[wiki/sources/pnboxing-facebook-page]]", "[[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]]", "[[wiki/syntheses/n-and-p-content/content-breakdown-index]]"]
+sources: ["[[wiki/entities/n-and-p-boxing-gym]]", "[[wiki/sources/n-and-p-boxing-gym]]", "[[wiki/sources/2026-05-02-nandpmuaythai-com]]", "[[wiki/sources/pnboxing-facebook-page]]", "[[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]]", "[[wiki/syntheses/n-and-p-content/content-breakdown-index]]", "[[wiki/sources/chatgpt-history/conversations-000]]", "[[wiki/sources/chatgpt-history/conversations-001]]", "[[wiki/sources/chatgpt-history/conversations-003]]", "[[wiki/sources/chatgpt-history/conversations-004]]", "[[wiki/sources/2026-09-08-nandpmuaythai-com]]"]
 ---
 
 # N&P — Two-Plan Customer Acquisition Strategy
+
+> [!warning] Live-offer check — 2026-09-08
+> Reconfirm unlimited memberships and multi-session private passes before using the older campaigns below: they are absent from the live offer list. Stay & Train now specifies a **one-week minimum**, daily training without closures, afternoon check-in and noon checkout. Use [[wiki/entities/n-and-p-boxing-gym]] for current visitor/payment/booking guidance. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
 
 > [!note] Why this page exists
 > The original [[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]] mixes two audiences. This page splits the work into two clean, parallel plans so each one has its own audience, language, channels, content, and ads.
@@ -198,7 +201,7 @@ All Plan 2 content **English-first**. Bilingual is acceptable but the hook line 
 ### Ad funnel (Plan 2)
 
 - **Campaign 2A — Staycation discovery (worldwide)** — Messages objective; broad targeting; interests Muay Thai/MMA/Thailand travel/martial arts; English-language video creative; 500–800 THB/day × 14 days; offer 1,000 THB/day.
-- **Campaign 2B — In-Thailand tourist** — Geo-target Thailand (excluding Rama 2 locals); travelers + expats interest; offer "Spend 3 days at a real Bangkok Muay Thai camp".
+- **Campaign 2B — In-Thailand tourist** — Geo-target Thailand (excluding Rama 2 locals); travelers + expats interest; offer "Spend a week at a real Bangkok Muay Thai camp" (website minimum: one week; [[wiki/sources/2026-09-08-nandpmuaythai-com]]).
 - **Campaign 2C — Digital nomad / monthly** — Target SEA digital-nomad interests; offer 25,000 THB/month.
 - **Campaign 2D — Staycation retargeting** — Anyone who watched ≥75% of staycation content or visited the website; carousel of inclusions; "DM to book your dates".
 
@@ -287,7 +290,7 @@ Existing content already in vault (Plan 2 use):
 
 **S14. Booking-confirmation flow (DM templates + email)**
 - DM template: ask preferred dates, number of guests, fitness level.
-- Confirmation email/PDF: address, what to bring (gloves, shorts, hand wraps, water bottle), house rules, contact.
+- Confirmation email/PDF: address, comfortable sportswear, house rules and contact. Nat says equipment is provided; distinguish optional personal gear from required items. ([[wiki/sources/chatgpt-history/conversations-001]])
 - Goal: smooth friction once a foreigner asks "how do I book?".
 
 **S15. Bangkok partner-network outreach (one-time, recurring follow-up)**
@@ -348,7 +351,7 @@ See full templates in [[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]
 2. **Holiday closures** — resolve the website-vs-Facebook contradiction ([[wiki/sources/2026-05-02-nandpmuaythai-com]] vs [[wiki/sources/pnboxing-facebook-page]]).
 3. **Referral / friend-bring-friend authority** (L7).
 4. **Use of student likeness** — written consent for testimonial reels (S7) and transformation videos (L9).
-5. **Full street address** — currently only "Rama 2" in vault; needed for Google Maps and S8 airport guide.
+5. **Full street address** — recovered from owner-supplied historical copy in [[wiki/sources/chatgpt-history/conversations-004]]; see [[wiki/entities/n-and-p-boxing-gym]]. Verify route and current parking details before recording S8.
 
 ---
 
@@ -363,3 +366,12 @@ See full templates in [[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]
 - [[wiki/syntheses/n-and-p-boxing-gym-social-media-ads-plan]] — original combined plan (this page replaces it for execution; keep the original for reference).
 - [[wiki/syntheses/n-and-p-content/content-breakdown-index]] — index of the 20 existing content pages.
 - [[wiki/entities/n-and-p-boxing-gym]] — confirmed offer/pricing/contact facts.
+
+## Customer evidence added from ChatGPT history — 2026-09-08
+
+- **Room questions are concrete booking friction:** a guest asked about AC, Wi-Fi, hot water and bathroom sharing. On-site bathrooms are shared/no hot water; do not advertise private rooms or on-site Wi-Fi based only on ChatGPT's draft. Nearby room inclusion was a customer-specific offer. Use [[wiki/concepts/stay-and-train]] when preparing S4/S5/S14. ([[wiki/sources/chatgpt-history/conversations-003]])
+- **Short trips:** Nat accepted 12–14 days at the standard 1,000 THB/day Stay & Train rate; two meals, AC lodging and twice-daily fighter training were specified. Retain availability/deposit/cancellation checks. ([[wiki/sources/chatgpt-history/conversations-003]])
+- **Fighter offers:** the 10,000 THB/month proposal was individual and was deferred for budget; exclude it from general ads. ([[wiki/sources/chatgpt-history/conversations-003]])
+- **Agent distribution:** EXO correspondence provides existing historical evidence for the partner channel; do not describe the relationship as a currently signed contract. ([[wiki/sources/chatgpt-history/conversations-001]])
+- **Creative preferences:** short, natural Thai/English student practice, kids' instruction, first-class experiences and evening pad-work clips recur in Nat's requests. ([[wiki/sources/chatgpt-history/conversations-000]], [[wiki/sources/chatgpt-history/conversations-001]], [[wiki/sources/chatgpt-history/conversations-004]])
+- **Historical evidence:** [[wiki/syntheses/n-and-p-chatgpt-history-update]] records the attendance baseline, older prices and outstanding decisions. None of the old ChatGPT ad budgets or conversion estimates is a measured N&P result. ([[wiki/sources/chatgpt-history/conversations-000]], [[wiki/sources/chatgpt-history/conversations-004]])

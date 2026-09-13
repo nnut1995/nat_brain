@@ -100,6 +100,15 @@ Rechecked the ROI math in [[wiki/syntheses/n-and-p-ice-bath-roi-and-pricing]] wh
 - Corrected conservative scenario to 16,500 THB/month net profit and 6.1-month payback.
 - Corrected aggressive scenario to 62,000 THB/month net profit and 1.6-month payback.
 
+## [2026-09-08] ingest | N&P Muay Thai details from ChatGPT history
+Extracted gym-related material from five ChatGPT export files into five source pages; added an EXO Travel entity, Stay & Train and membership/check-in concepts, and a consolidated [[wiki/syntheses/n-and-p-chatgpt-history-update]].
+Updated the gym profile, two existing source cross-checks, acquisition plan and index with accommodation, individual fighter-offer status, agent bookings, branding/OEM requests and recalculated attendance; flagged historical pricing/session-length/closure differences and an old weekday-analysis error.
+Preserved raw exports and unrelated staged poster changes; separated owner statements, customer correspondence, historical facts and unadopted ChatGPT proposals.
+
+## [2026-09-08] ingest | Live N&P website visitor and booking context
+Read the English homepage and Thai version; added [[wiki/sources/2026-09-08-nandpmuaythai-com]] and updated the gym profile, Stay & Train concept, prior source cross-references, acquisition plan and index.
+Captured the one-week minimum, daily residential schedule, check-in/out, free equipment loans, payment/language guidance and enquiry confirmation; flagged unlisted historical memberships/private passes and corrected the scope of monthly closures. Raw files and unrelated staged poster work were preserved.
+
 ## [2026-09-13] query | N&P Facebook Reel seven-day acquisition test
 Filed [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] after Nat confirmed the local Thai audience and 400 THB entry class.
 Recorded the 1,400 THB test, booking workflow, capacity check, and profit-based continuation rules; no ads launched or account integration performed. Updated index.
