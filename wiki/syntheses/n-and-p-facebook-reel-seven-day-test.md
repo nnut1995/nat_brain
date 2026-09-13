@@ -14,7 +14,7 @@ sources: ["[[wiki/sources/n-and-p-boxing-gym]]", "[[wiki/sources/2026-05-02-nand
 บันทึกการตัดสินใจจากบทสนทนากับ Nat วันที่ 2026-09-13: เน้นคนไทยใกล้ยิม คลาสแรก 400 บาท งบทดลอง 200 บาท × 7 วัน รวม 1,400 บาท แล้วประเมินกำไรก่อนยิงต่อ ราคาคลาสกลุ่ม 60 นาที 400 บาทสอดคล้องกับข้อมูลเดิม ([[wiki/sources/n-and-p-boxing-gym]])
 
 - โพสต์ที่ Nat เลือก: [Facebook Reel](https://www.facebook.com/reel/1044793744802809)
-- สถานะ: บันทึกแผนแล้ว ยังไม่ได้สร้างหรือเปิดโฆษณา และยังไม่ได้เชื่อมบัญชี Meta
+- สถานะ: สร้างฉบับร่างใน Ads Manager แล้ว ยังไม่ได้ Publish และยังไม่ได้เชื่อม Marketing API
 - แผนนี้ย่อจาก [[wiki/syntheses/n-and-p-two-plans-local-and-staycation]] ให้เหมาะกับงบทดลอง
 
 ## ค่าตั้งต้นที่เสนอ
@@ -81,3 +81,22 @@ sources: ["[[wiki/sources/n-and-p-boxing-gym]]", "[[wiki/sources/2026-05-02-nand
 ข้อเสนอรอบแรก: ใช้ Ads Manager แล้วประกบรายงานค่าโฆษณากับทะเบียนจอง/ชำระเงินก่อนทำระบบอัตโนมัติ
 
 สำหรับอนาคต Meta Marketing API รองรับการอ่านผลและจัดการโฆษณาตามสิทธิ์บัญชี ต้องมีแอป บัญชีโฆษณา และ access token ที่เหมาะสม ดู [เอกสาร Meta](https://www.postman.com/meta/facebook-marketing-api/documentation/0zr4mes/facebook-marketing-api-mapi) การเชื่อมยังไม่ได้ดำเนินการ และต้องจับคู่ข้อมูลโฆษณากับยอดชำระเงินจริงเพื่อวัด ROI หน้าร้าน
+
+
+## บันทึกการตั้งฉบับร่าง — 2026-09-13
+
+บันทึกการดำเนินงานจากหน้า Ads Manager ในบทสนทนานี้ ค่าล่าสุดด้านล่างแทนค่าตั้งต้นที่เสนอข้างต้น: Nat เลือกโพสต์และ saved audience ต่อเองก่อนให้ทำส่วน Conversations และยืนยันให้ปรับเวลาจบครบ 7 วัน
+
+- [เปิดฉบับร่างใน Ads Manager](https://adsmanager.facebook.com/adsmanager/manage/ads/edit/standalone?act=144777171&selected_campaign_ids=52640169255608&selected_adset_ids=52640169255808&selected_ad_ids=52640169256008)
+- Campaign: `N&P | Local Trial 400 | Reel | 7D 1400 | DRAFT` — `52640169255608`
+- Ad set: `Rama 2 | Local 5km | Messenger | 7 days` — `52640169255808`
+- Ad: `First Session Reel And Post Beginner | Trial 400` — `52640169256008`
+- Lifetime budget: 1,400 บาท; เวลา 13 กันยายน 2026 16:00 ถึง 20 กันยายน 2026 16:00 Bangkok Time รวม 7 วัน ตามที่ Nat ยืนยัน
+- Objective: Engagement; destination: Messenger ของเพจค่ายมวย; performance goal: Maximise number of conversations
+- คง saved audience ที่ Nat เลือก `Muay Thai 3miles`: หมุด Bang Khun Thian รัศมี 3 ไมล์ (ประมาณ 4.8 กม.), อายุขั้นต่ำ 20, อายุแนะนำ 20–50 และความสนใจที่บันทึกไว้ใน audience นี้ ช่วงอายุแนะนำอยู่ภายใต้ Advantage+ ไม่ใช่ขอบเขตอายุสูงสุดแบบบังคับ
+- คงโพสต์ 5 ชิ้นที่ Nat เลือกไว้: มือใหม่ 9 ก.ย., Beginner Boxing Session 5 ก.ย., เริ่มจากไม่มีพื้นฐาน 24 ส.ค., บรรยากาศ Outdoor 11 ก.ย., คลาสเด็ก 2 ก.ย. ไม่ได้แทนที่การเลือกนี้ด้วย Reel เดียวจากแผนตั้งต้น
+- Placements: Advantage+; Multi-advertiser ads: Off
+- Template: `N&P | Trial 400 | Thai booking | Sep 2026` มีคำทักทายไทย, คำถามและคำตอบ 3 ข้อสำหรับจอง 400 บาท / มือใหม่ / ที่ตั้งและเวลา พร้อมข้อความติดตามไทย โดยไม่ส่งข้อความจริงระหว่างการตั้งฉบับร่าง
+- ตรวจหน้าปลายทางและข้อความที่บันทึกแล้ว; หน้า Review ยืนยันวันเวลา 16:00 ทั้งสองวัน; UI แสดง All edits saved และ In draft ไม่ได้กด Publish
+
+ข้อควรตรวจเมื่อจะเผยแพร่: หน้า Account overview ที่ตรวจช่วงแรกมี account spending limit 1,000 บาท ต่ำกว่างบแคมเปญ 1,400 บาท ยังไม่ได้แก้ระดับบัญชี และถ้าเผยแพร่หลังเวลาเริ่ม ต้องปรับตารางอีกครั้งก่อนนับระยะทดสอบจริง

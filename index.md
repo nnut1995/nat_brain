@@ -53,7 +53,7 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 ## Syntheses
 *Cross-source analyses, comparisons, filed query answers.*
 
-- [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] — แผนโฆษณา Reel หานักเรียนไทยใกล้ยิม งบ 1,400 บาท / 7 วัน พร้อมเกณฑ์ ROI.
+- [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] — แผนและฉบับร่าง Facebook Ads งบ 1,400 บาท / 7 วัน พร้อม Conversations ภาษาไทยและเกณฑ์ ROI; ยังไม่ Publish.
 
 - [[wiki/syntheses/n-and-p-pricing-strategy]] — Yield-management pricing strategy for N&P: split unlimited into Off-Peak vs All-Access, re-anchor long tiers, cap peak bookings, lift privates; decide freelance vs hour-extension only after pricing reform.
 - [[wiki/syntheses/n-and-p-ice-bath-roi-and-pricing]] — ROI model and pricing strategy for a ~100,000 THB ice bath/cold plunge investment: avoid free unlimited use, launch with a 600 THB class + recovery bundle, and target 2+ paid uses/day for 12-month payback.

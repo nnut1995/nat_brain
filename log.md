@@ -112,3 +112,7 @@ Captured the one-week minimum, daily residential schedule, check-in/out, free eq
 ## [2026-09-13] query | N&P Facebook Reel seven-day acquisition test
 Filed [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] after Nat confirmed the local Thai audience and 400 THB entry class.
 Recorded the 1,400 THB test, booking workflow, capacity check, and profit-based continuation rules; no ads launched or account integration performed. Updated index.
+
+## [2026-09-13] query | Prepare N&P Facebook ads draft and Conversations
+Created the unpublished campaign, then preserved Nat’s five-post and saved-audience selections while completing Thai greeting, three FAQ responses and follow-up text.
+Verified saved draft status and the owner-approved 13–20 September 16:00 seven-day schedule; recorded IDs, 1,400 THB budget and existing account-limit caveat in the synthesis and index. No Publish action performed.
