@@ -116,3 +116,7 @@ Recorded the 1,400 THB test, booking workflow, capacity check, and profit-based 
 ## [2026-09-13] query | Prepare N&P Facebook ads draft and Conversations
 Created the unpublished campaign, then preserved Nat’s five-post and saved-audience selections while completing Thai greeting, three FAQ responses and follow-up text.
 Verified saved draft status and the owner-approved 13–20 September 16:00 seven-day schedule; recorded IDs, 1,400 THB budget and existing account-limit caveat in the synthesis and index. No Publish action performed.
+
+## [2026-09-19] query | Prepare unpublished N&P Google Search draft
+Created a Google Search campaign draft and prepared Thai ad copy, eight local keywords, a 5 km presence audience and a 3,000 THB test proposal in [[wiki/syntheses/n-and-p-google-search-draft]].
+Google passkey verification interrupted saving; final ad persistence and the intended 98 THB/day budget remain unverified. Recorded Nat's 1× revenue-ROAS criterion, updated index, and left the campaign unpublished without adding funds.

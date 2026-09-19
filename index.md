@@ -1,7 +1,7 @@
 ---
 title: Index
 type: index
-updated: 2026-09-13
+updated: 2026-09-19
 ---
 
 # Index
@@ -53,6 +53,8 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 ## Syntheses
 *Cross-source analyses, comparisons, filed query answers.*
 
+- [[wiki/syntheses/n-and-p-google-search-draft]] — Unpublished local Google Search draft, Thai trial-class copy and 3,000 THB test proposal; final saving/budget blocked by Google identity verification.
+
 - [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] — แผนและฉบับร่าง Facebook Ads งบ 1,400 บาท / 7 วัน พร้อม Conversations ภาษาไทยและเกณฑ์ ROI; ยังไม่ Publish.
 
 - [[wiki/syntheses/n-and-p-pricing-strategy]] — Yield-management pricing strategy for N&P: split unlimited into Off-Peak vs All-Access, re-anchor long tiers, cap peak bookings, lift privates; decide freelance vs hour-extension only after pricing reform.
@@ -87,4 +89,4 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 ---
 
 ## Stats
-updated: 2026-09-13
+updated: 2026-09-19
