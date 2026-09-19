@@ -13,7 +13,9 @@ sources: ["[[wiki/sources/2026-09-08-nandpmuaythai-com]]", "[[wiki/sources/n-and
 
 Decision record from Nat's conversation on 2026-09-19: the recent Facebook campaign is 200 THB × 7 days; the initial success criterion is student revenue covering ad spend (at least 1× ROAS). Nat requested a Google Ads draft and explicitly prohibited publication. This is a campaign proposal and execution record, not evidence of measured advertising performance.
 
-**Unpublished; completion of saving is blocked by Google's passkey verification.** The draft was created in Google Ads; the editor subsequently displayed “Changes failed to save” when saving the ad destination. Do not assume all entered settings have persisted. The budget field still showed Google's suggested 118.67 THB/day when verification interrupted the workflow; **the intended 98 THB/day has not been entered or verified**. Resume, set the intended budget, and verify all saved values before any launch discussion.
+**Unpublished; saved draft exists, but Google's EU political-ad declaration remains blocked.** Initial saving was interrupted by passkey verification. On resuming later on 2026-09-19, the dashboard showed the named draft and eight keywords. Review still reports “Confirm if your campaign has EU political ads.” Selecting No, advancing, reloading and reopening from Resume draft did not resolve it: the answer reverted to unselected despite “All changes saved.” This is an observed persistence/validation failure; its underlying cause is unconfirmed.
+
+The latest budget field shows **126.62 THB/day**, not the proposed 98 THB/day. It was left unchanged during troubleshooting because Nat had interacted with the budget page. Reconcile the budget with Nat before launch. No publication or funding action was taken.
 
 - Name: `DRAFT | N&P | Search | Rama 2 | TH | 3000 THB`
 - Account: `288-657-8621`
@@ -95,8 +97,8 @@ Arithmetic examples, not forecasts: eight 400 THB first classes collect 3,200 TH
 
 ## Resume checklist
 
-1. Complete Google's identity verification in the browser.
+1. Resolve the declaration persistence issue; the truthful campaign answer is No. Refresh and reopening were already tried. If it persists, use Google Ads support; do not publish to test a workaround.
 2. Re-save the ad, check Thai and English selection, 5 km presence targeting and network exclusions.
-3. Enter **98 THB/day** and verify it persisted; do not accept the suggested 118.67 THB/day inadvertently.
+3. Reconcile the proposed **98 THB/day** with the latest **126.62 THB/day** shown after Nat's budget-page interaction, then verify the chosen value persisted.
 4. Review negatives, lead-to-payment attribution, class availability and intended test dates.
 5. Verify the saved draft in the campaign list. Keep unpublished until Nat requests launch.

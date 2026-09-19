@@ -53,7 +53,7 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 ## Syntheses
 *Cross-source analyses, comparisons, filed query answers.*
 
-- [[wiki/syntheses/n-and-p-google-search-draft]] — Unpublished local Google Search draft, Thai trial-class copy and 3,000 THB test proposal; final saving/budget blocked by Google identity verification.
+- [[wiki/syntheses/n-and-p-google-search-draft]] — Unpublished local Google Search draft and 3,000 THB test proposal; EU political-ad declaration fails to persist, and current 126.62 THB/day needs reconciliation with proposed 98 THB/day.
 
 - [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] — แผนและฉบับร่าง Facebook Ads งบ 1,400 บาท / 7 วัน พร้อม Conversations ภาษาไทยและเกณฑ์ ROI; ยังไม่ Publish.
 

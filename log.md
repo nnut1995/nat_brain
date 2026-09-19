@@ -120,3 +120,7 @@ Verified saved draft status and the owner-approved 13–20 September 16:00 seven
 ## [2026-09-19] query | Prepare unpublished N&P Google Search draft
 Created a Google Search campaign draft and prepared Thai ad copy, eight local keywords, a 5 km presence audience and a 3,000 THB test proposal in [[wiki/syntheses/n-and-p-google-search-draft]].
 Google passkey verification interrupted saving; final ad persistence and the intended 98 THB/day budget remain unverified. Recorded Nat's 1× revenue-ROAS criterion, updated index, and left the campaign unpublished without adding funds.
+
+## [2026-09-19] query | Diagnose Google Ads EU political declaration loop
+Verified the named draft exists; selecting No, reloading and resuming still leaves the declaration missing on review. Recorded the unresolved persistence failure in [[wiki/syntheses/n-and-p-google-search-draft]] and updated index.
+Observed 126.62 THB/day after Nat's budget-page interaction and left it unchanged pending reconciliation with the proposed 98 THB/day. No campaign published or funds added.
