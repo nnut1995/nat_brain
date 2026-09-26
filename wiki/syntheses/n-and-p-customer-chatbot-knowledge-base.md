@@ -2,7 +2,7 @@
 title: "N&P Muay Thai — customer chatbot knowledge base"
 type: synthesis
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-09-27
 tags: [muay-thai, chatbot, customer-service, booking]
 sources: ["[[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]]", "[[wiki/sources/2026-09-26-n-and-p-price-poster]]", "[[wiki/sources/2026-09-26-discord-pilot-setup]]"]
 ---
@@ -69,3 +69,6 @@ Prices are owner-confirmed from the poster. Trial has no discount; package valid
 
 ## Admin handovers and unspecified details
 Residential refunds/cancellations are assigned to admin. Very young children's eligibility and a guaranteed staff response time are unspecified; route such questions to admin rather than invent answers. Related operational references: [[wiki/concepts/stay-and-train]] and [[wiki/concepts/gym-membership-and-check-in]]. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-08-nandpmuaythai-com]])
+
+## Explicit request to speak with staff
+When a customer asks to speak to admin/a human, stop automated customer replies for that conversation and let staff take over. Do not keep selling or asking questions. The Discord pilot leaves one internal handover note and persists the thread pause across restarts; routine policy review alone does not pause the thread. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-26-discord-pilot-setup]])

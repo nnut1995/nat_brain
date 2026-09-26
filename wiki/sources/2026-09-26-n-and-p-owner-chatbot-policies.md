@@ -2,7 +2,7 @@
 title: "N&P owner answers — customer chatbot policies"
 type: source
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-09-27
 tags: [muay-thai, customer-service, booking, owner-confirmed]
 source_type: transcript
 ---
@@ -37,6 +37,7 @@ Source: Nat's questionnaire replies and final policy clarifications in this conv
 - Pay 50% to reserve the room and the remaining balance before check-in. Admin confirms room availability and quotes extra-cost airport pickup. Nat directs residential deposit/payment refund and cancellation enquiries to admin; the chatbot must not promise or deny a refund. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ### Chatbot and public contact
+- On September 27, Nat requested that a customer asking to speak to admin hands the conversation to staff and stops all subsequent bot replies in that chat. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Nat requests one Discord thread per customer conversation, with follow-up answers using that thread’s context, and explicitly approves enabling Message Content Intent for the new pilot bot. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Nat additionally asks the chatbot to focus on selling monthly buffet memberships. Promote the current monthly group offer alongside a suitable first-visit path; the existing one-session-per-day limit and prices remain unchanged. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Nat requests a sales-oriented receptionist voice for the planned Facebook launch, where most enquirers are new to the gym. Avoid bureaucratic customer wording such as “ต้องให้แอดมินพิจารณาเป็นกรณีไปนะคะ”; use a helpful next step while keeping staff review requirements in the internal note. This changes communication style, not refund, booking or exception policies. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])

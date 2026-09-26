@@ -2,7 +2,7 @@
 title: "N&P Discord pilot — setup and validation record"
 type: source
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-09-27
 tags: [muay-thai, chatbot, discord, pilot]
 source_type: note
 ---
@@ -45,3 +45,7 @@ Source: this session's user requirements, local implementation and observed test
 - End-to-end verification completed: Nat’s Discord account submitted a synthetic Thai trial-class enquiry using `/draft`; the new bot returned 400 THB, 60 minutes, sportswear, free gloves/wraps and payment after class, with a separate internal note, in 9 seconds. No customer was contacted. This was the initial slash-command check; plain-message thread mode supersedes the original stateless workflow. ([[wiki/sources/2026-09-26-discord-pilot-setup]])
 
 - Final normal-message Discord UI check was blocked by the locked Mac; Nat was asked to unlock it. Message Content Intent was independently verified enabled through Discord’s API, and the updated service connected with no logged errors. Unit and direct Codex follow-up tests passed; an actual top-level message → thread → follow-up round trip has not yet been observed. ([[wiki/sources/2026-09-26-discord-pilot-setup]])
+
+## Admin handover update — 2026-09-27
+- Added persistent per-thread pauses for explicit staff requests, one internal handover notice, and guards against queued/in-flight replies, attachments and slash-command bypass. Ordinary staff-review flags do not trigger takeover. Eleven offline tests passed; the service restarted. ([[wiki/sources/2026-09-26-discord-pilot-setup]])
+- Direct testing found the owner-selected `gpt-6-luna` is rejected by the current ChatGPT-authenticated CLI. Normal generation and semantic handover classification therefore remain blocked with that setting; explicit Thai/English handover matching works without the model. Nat was asked whether to restore the previous default. No end-to-end Discord takeover test has been performed. ([[wiki/sources/2026-09-26-discord-pilot-setup]])

@@ -152,3 +152,7 @@ Four targeted Codex cases passed: regular-training leads get the 3,990 THB buffe
 ## [2026-09-26] update | Add per-customer Discord conversation threads
 Enabled owner-approved normal-message mode on the fresh pilot: new enquiries create threads; follow-ups use isolated, locally persisted recent history. Updated operational and owner sources, FAQ and index.
 Eight offline tests and a live Codex follow-up passed; Discord confirmed intent enabled and service connected. Final Discord UI round trip awaits Mac unlock. No raw sources changed.
+
+## [2026-09-27] update | Pause Discord threads for admin takeover
+Implemented persistent per-thread handover on customer requests, with one internal note and suppression of further automated replies. Updated owner policy, FAQ, pilot record and index; eleven offline tests passed.
+Found the selected gpt-6-luna unsupported by the current CLI login; asked Nat about restoring the previous default. Direct semantic evaluation and Discord end-to-end takeover remain unverified.
