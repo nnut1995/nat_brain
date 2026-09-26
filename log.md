@@ -140,3 +140,7 @@ Restored the existing Hermes configuration following Nat’s fresh-build instruc
 ## [2026-09-26] query | Activate and verify N&P Discord pilot
 Nat created/installed the new app and configured its token. Registered /draft, started the standalone macOS background service, and verified a Thai trial-class reply plus internal note in the target Discord channel in 9 seconds.
 Updated the pilot source, customer-reference status and index; Facebook/LINE remain deferred and customers still receive manually reviewed replies. No credentials or customer records were added to the wiki.
+
+## [2026-09-26] query | Make pilot replies sales-oriented for new Facebook leads
+Updated owner preferences, customer-reference conversation style, pilot source and index; changed the standalone bot prompt and restarted only the pilot service.
+Eight synthetic Codex cases passed: helpful next steps replace bureaucratic customer-facing deferrals, while approvals and exception decisions remain in the internal note. Existing business policies are unchanged.

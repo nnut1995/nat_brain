@@ -23,6 +23,8 @@ Source: this session's user requirements, local implementation and observed test
 - Four offline checks passed. Six synthetic Codex cases passed and outputs were inspected: Thai trial/equipment, both 30-session sharing types, residential 15th/16th/Sunday rules, residential refund referral, unconfirmed booking, and misleading customer instructions. Successful evaluation times were 6.9–12.4 seconds. This is limited test evidence, not a universal accuracy guarantee. Details are in the project's `VALIDATION.md`. ([[wiki/sources/2026-09-26-discord-pilot-setup]])
 - Nat created and installed **N&P Customer Pilot** (application ID `1553428526592565338`) and saved its new token locally. `/draft` was registered and the bot started as its own macOS login service, `com.natn.nandp-discord-pilot`. The pilot is **live** in the selected channel while this Mac is awake and connected; Codex account availability/limits apply. ([[wiki/sources/2026-09-26-discord-pilot-setup]])
 
+- Sales-style revision: Nat requested a welcoming receptionist voice for new Facebook leads and removal of bureaucratic approval wording from customer replies. Updated the standalone prompt; eight synthetic Codex scenarios passed, including beginner conversion, caring extension/refund handover and unchanged pricing/booking rules. Staff decisions remain internal. A live Discord beginner enquiry verified the welcoming trial offer and next-step question in 7.5 seconds. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-26-discord-pilot-setup]])
+
 ## Notable quotes
 - "just ignore the existing resource, just do everything new"
 - "try to use codex first for test"

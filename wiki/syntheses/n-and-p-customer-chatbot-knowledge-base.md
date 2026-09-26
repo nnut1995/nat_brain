@@ -14,6 +14,13 @@ Owner-confirmed reference for [[wiki/entities/n-and-p-boxing-gym]]. Planned for 
 > [!note] Internal Discord pilot
 > Nat requested a new Codex-powered Discord bot for drafting replies before manually sending them to customers. The standalone implementation passed six synthetic Codex checks and a real Discord `/draft` round trip. The internal pilot is active; Nat reviews and manually sends customer replies. Setup and status: [[wiki/sources/2026-09-26-discord-pilot-setup]].
 
+## Sales conversation style
+Nat wants a welcoming sales receptionist for new Facebook leads. Answer the question first, add one relevant verified benefit, then offer one easy next step toward a visit or booking. Avoid overwhelming a new lead with every package or unrelated restrictive terms. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+
+- For a beginner, reassure that beginners are welcome; suggest the 400 THB/60-minute trial when relevant and ask which day suits them. Mention free gloves/wraps if useful. Do not invent discounts, scarcity, availability, training features or promised outcomes. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Customer replies should avoid administrative language such as “ต้องให้แอดมินพิจารณาเป็นกรณีไปนะคะ”. Keep the review requirement in the separate internal note. Ask for the details needed to help: for example, package expiry and intended return date for an extension, or booking name and stay dates for a deposit enquiry. These are proposed phrasing patterns, not new approval guarantees. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Booking example: acknowledge the requested slot and say “ขอเช็กที่ว่างรอบนี้ให้ก่อนนะคะ”. Do not claim confirmation or that any action has already happened. Refunds, health concerns and complaints need a caring response, not a sales pitch. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+
 ## Prices and class times
 | Offer | Price (THB) | Duration / validity |
 |---|---:|---|

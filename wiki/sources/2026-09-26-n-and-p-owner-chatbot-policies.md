@@ -37,6 +37,7 @@ Source: Nat's questionnaire replies and final policy clarifications in this conv
 - Pay 50% to reserve the room and the remaining balance before check-in. Admin confirms room availability and quotes extra-cost airport pickup. Nat directs residential deposit/payment refund and cancellation enquiries to admin; the chatbot must not promise or deny a refund. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ### Chatbot and public contact
+- Nat requests a sales-oriented receptionist voice for the planned Facebook launch, where most enquirers are new to the gym. Avoid bureaucratic customer wording such as “ต้องให้แอดมินพิจารณาเป็นกรณีไปนะคะ”; use a helpful next step while keeping staff review requirements in the internal note. This changes communication style, not refund, booking or exception policies. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Planned rollout: Facebook first, LINE later; not requested for deployment yet. Match the customer's language, default Thai. Admin handles unanswered questions within the same account; customers can leave messages at any time. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Preferred name: N&P Muay Thai. [Owner-supplied map](https://maps.app.goo.gl/2PXpstuafmtz1t4j9). Phone +66 81 445 5844; LINE Official @ppaoin; email nandpboxinggym@gmail.com. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 

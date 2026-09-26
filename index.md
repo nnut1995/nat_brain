@@ -57,7 +57,7 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 
 ## Syntheses
 
-- [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]] — Customer-service reference for planned Facebook/LINE chatbot; confirmed prices, package sharing and schedules, with residential refunds routed to admin.
+- [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]] — Sales-oriented customer reference for new Facebook leads; confirmed prices and policies, warm next steps, and separate internal admin handovers.
 *Cross-source analyses, comparisons, filed query answers.*
 
 - [[wiki/syntheses/n-and-p-google-search-draft]] — Unpublished local Google Search draft and 3,000 THB test proposal; EU political-ad declaration fails to persist, and current 126.62 THB/day needs reconciliation with proposed 98 THB/day.
