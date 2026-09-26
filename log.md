@@ -128,3 +128,7 @@ Observed 126.62 THB/day after Nat's budget-page interaction and left it unchange
 ## [2026-09-26] ingest | N&P customer chatbot policies and price poster
 Added separate poster and owner-answer sources, plus [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]]; updated gym, Stay & Train, membership, website-source annotations and index.
 Flagged website conflicts on Sunday training and checkout, clarified one-session/day memberships, and recorded deposits and human handovers. Raw files were untouched; Facebook/LINE deployment remains deferred.
+
+## [2026-09-26] ingest | Clarify N&P sharing and residential policies
+Updated the owner-answer source, chatbot reference, gym profile, membership and Stay & Train concepts, and index.
+Confirmed two-person sharing for both group/private 30-session passes and residential training on the 15th/16th except Sundays; explicitly assigned residential cancellation/refund enquiries to admin. No new contradictions or raw-file changes.

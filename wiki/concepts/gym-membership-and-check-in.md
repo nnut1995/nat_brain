@@ -21,7 +21,7 @@ Nat wants mobile administration and a member experience without installing anoth
 - Related gym: [[wiki/entities/n-and-p-boxing-gym]]; data summary: [[wiki/syntheses/n-and-p-chatgpt-history-update]].
 
 ## Current customer package rules
-- Memberships allow one session daily; package validity starts at the first class. A 30-session pass can be shared with one other person, with group/private scope to confirm. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Memberships allow one session daily; package validity starts at the first class. Both group and private 30-session passes can be shared between two people. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Cancellation, rescheduling and no-shows cause no fee or session deduction. No class-package refunds; extensions and other package exceptions require admin. These are business rules, not evidence of a deployed system. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Staff confirm bookings using name, date, time and party size. Walk-ins have no availability guarantee. Customer reference: [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]]. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 

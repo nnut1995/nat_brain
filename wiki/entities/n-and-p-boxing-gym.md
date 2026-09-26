@@ -66,7 +66,7 @@ Current prices and pass validity: [[wiki/sources/2026-09-26-n-and-p-price-poster
 ## Operating hours
 - Regular/trial: hourly starts **14:00–19:00**, finishing by **20:00**; private lessons arranged within **07:00–12:00**. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
 - **Regular and private lessons close on the 15th & 16th monthly.** ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
-- **Stay & Train trains Monday–Saturday, not Sunday:** approximate windows **06:00–09:00 and 15:00–18:00**. Sunday meals continue. Specific residential treatment of the 15th/16th should be confirmed with admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- **Stay & Train trains Monday–Saturday, not Sunday:** approximate windows **06:00–09:00 and 15:00–18:00**. Sunday meals continue. Residential training runs on the 15th and 16th unless Sunday. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 > [!warning] Contradiction — residential closures
 > The September 8 website exempted Stay & Train from all closures. Nat now confirms no Sunday training. Use the newer owner policy; retain the earlier website as historical evidence. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-08-nandpmuaythai-com]])
@@ -81,7 +81,7 @@ Current prices and pass validity: [[wiki/sources/2026-09-26-n-and-p-price-poster
 - **Owner-preferred map pin:** https://maps.app.goo.gl/2PXpstuafmtz1t4j9 ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ## Stay & Train and booking details
-- Owner-confirmed terms: **minimum one week**, check-in **14:00**, checkout **13:00**; 1,000 THB/day or 25,000 THB/**30 days**, lodging, two meals and two sessions on training days. Beginners welcome. **50% deposit to reserve; balance before check-in.** Admin confirms rooms and quotes extra-cost airport pickup. Residential refund/cancellation policy remains unresolved. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Owner-confirmed terms: **minimum one week**, check-in **14:00**, checkout **13:00**; 1,000 THB/day or 25,000 THB/**30 days**, lodging, two meals and two sessions on training days. Beginners welcome. **50% deposit to reserve; balance before check-in.** Admin confirms rooms and quotes extra-cost airport pickup. Residential deposit/payment refund and cancellation enquiries go to admin; do not promise or deny refunds. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 > [!warning] Contradiction — checkout
 > September 8 website said noon; Nat now confirms 13:00. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-08-nandpmuaythai-com]])
@@ -101,7 +101,7 @@ Current prices and pass validity: [[wiki/sources/2026-09-26-n-and-p-price-poster
 ## First-visit payment and booking
 - Arrive **10 minutes early** in comfortable sportswear; gloves/wraps are **free to borrow** and also sold. ([[wiki/sources/2026-09-08-nandpmuaythai-com]])
 - **Cash or bank transfer, after class.** No class-package refunds. Cancellation/rescheduling/no-shows: no fee or session deduction. Late arrivals finish at the original time if the next class is waiting. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
-- A 30-session pass may be shared with one other person; group/private applicability needs admin confirmation. Other sharing, transfer, freezing and extension requests go to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Both group and private 30-session passes may be shared between two people. Other sharing, transfer, freezing and extension requests go to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Trainers speak **Thai and a little English**; reception can communicate in English. Chatbot matches customer language, default Thai. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Chatbot collects **name, date, time, number of people**; staff confirm every booking. Walk-ins subject to availability. Admin responds in the same account; customers can message anytime, with no guaranteed response time. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 

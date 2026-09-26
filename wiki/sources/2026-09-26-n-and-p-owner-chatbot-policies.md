@@ -9,7 +9,7 @@ source_type: transcript
 
 # N&P owner answers — customer chatbot policies
 
-Source: Nat's two questionnaire replies in this conversation, dated 2026-09-26. This page represents the owner's answers; the supplied poster is a separate source, [[wiki/sources/2026-09-26-n-and-p-price-poster]]. No raw files were created or modified.
+Source: Nat's questionnaire replies and final policy clarifications in this conversation, dated 2026-09-26. This page represents the owner's answers; the supplied poster is a separate source, [[wiki/sources/2026-09-26-n-and-p-price-poster]]. No raw files were created or modified.
 
 ## TL;DR
 - Poster prices/schedules are current; memberships allow one session per day, starting with the first class.
@@ -22,7 +22,7 @@ Source: Nat's two questionnaire replies in this conversation, dated 2026-09-26. 
 - Walk-ins are welcome without guaranteed availability. Collect name, date, time and number of people; staff confirm every booking. Admin answers in the same customer account. Customers may message anytime; round-the-clock staff response is not promised. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Class payment is at the end, by cash or bank transfer. No refunds for class packages; extensions depend on admin approval. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Cancellation, rescheduling and no-shows have no fee and no session deduction. Late customers finish at the original end time if the next class is waiting; no fixed extra-time entitlement was specified. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
-- A 30-session package may be shared with one other person. Whether this covers both group and private passes was not specified. Other sharing, transfer, freeze and extension requests go to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Both group and private 30-session packages may be shared with one other person (two people total). Other sharing, transfer, freeze and extension requests go to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ### Training and facilities
 - Children around ages 5–6 can attend and usually train separately. Nat does not require routine admin confirmation for children's visits; do not invent a strict minimum age or guaranteed separate class. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
@@ -33,8 +33,8 @@ Source: Nat's two questionnaire replies in this conversation, dated 2026-09-26. 
 ### Stay & Train
 - 1,000 THB/day or 25,000 THB per 30 days, minimum one week. Beginners welcome. Includes accommodation, two meals and two daily training sessions on training days. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Private room, AC, Wi-Fi, bathroom outside the room, no hot water yet. Whether outside bathrooms are shared was not re-confirmed. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
-- Two sessions Monday–Saturday, approximately 06:00–09:00 and 15:00–18:00; no Sunday training. Meals are provided Sundays. Check-in 14:00, checkout 13:00. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
-- Pay 50% to reserve the room and the remaining balance before check-in. Admin confirms room availability and quotes extra-cost airport pickup. Residential refund/cancellation rules remain unanswered. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Two sessions Monday–Saturday, approximately 06:00–09:00 and 15:00–18:00; no Sunday training. Training runs on the 15th and 16th unless Sunday. Meals are provided Sundays. Check-in 14:00, checkout 13:00. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Pay 50% to reserve the room and the remaining balance before check-in. Admin confirms room availability and quotes extra-cost airport pickup. Nat directs residential deposit/payment refund and cancellation enquiries to admin; the chatbot must not promise or deny a refund. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ### Chatbot and public contact
 - Planned rollout: Facebook first, LINE later; not requested for deployment yet. Match the customer's language, default Thai. Admin handles unanswered questions within the same account; customers can leave messages at any time. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
@@ -59,5 +59,5 @@ Source: Nat's two questionnaire replies in this conversation, dated 2026-09-26. 
 > [!warning] Membership terminology and offer availability
 > Earlier records called memberships unlimited and left availability of monthly/private passes unconfirmed. Nat confirms current poster packages with a one-session-per-day membership limit. See [[wiki/entities/n-and-p-boxing-gym]] and [[wiki/sources/2026-09-26-n-and-p-price-poster]].
 
-- Admin must clarify residential refunds/cancellation, whether 30-session sharing covers both class types, exact acceptance below approximately age five, and any exceptional residential schedule on the 15th/16th. These gaps do not block answering the confirmed questions above. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-08-nandpmuaythai-com]])
+- Final clarification: sharing covers both group and private 30-session packages; residential training continues on the 15th/16th unless Sunday; residential refunds are explicitly assigned to admin. Exact acceptance below approximately age five remains unspecified. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-08-nandpmuaythai-com]])
 - Compiled reference: [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]].
