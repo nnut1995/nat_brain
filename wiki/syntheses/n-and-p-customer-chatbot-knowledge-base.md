@@ -4,12 +4,15 @@ type: synthesis
 created: 2026-09-26
 updated: 2026-09-26
 tags: [muay-thai, chatbot, customer-service, booking]
-sources: ["[[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]]", "[[wiki/sources/2026-09-26-n-and-p-price-poster]]"]
+sources: ["[[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]]", "[[wiki/sources/2026-09-26-n-and-p-price-poster]]", "[[wiki/sources/2026-09-26-discord-pilot-setup]]"]
 ---
 
 # N&P Muay Thai — customer chatbot knowledge base
 
 Owner-confirmed reference for [[wiki/entities/n-and-p-boxing-gym]]. Planned for Facebook first and LINE later; deployment is deferred. Reply in the customer's language, defaulting to Thai. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+
+> [!note] Internal Discord pilot
+> Nat requested a new Codex-powered Discord bot for drafting replies before manually sending them to customers. The standalone implementation passed six synthetic Codex checks; Discord activation is still pending. Setup and status: [[wiki/sources/2026-09-26-discord-pilot-setup]].
 
 ## Prices and class times
 | Offer | Price (THB) | Duration / validity |

@@ -132,3 +132,7 @@ Flagged website conflicts on Sunday training and checkout, clarified one-session
 ## [2026-09-26] ingest | Clarify N&P sharing and residential policies
 Updated the owner-answer source, chatbot reference, gym profile, membership and Stay & Train concepts, and index.
 Confirmed two-person sharing for both group/private 30-session passes and residential training on the 15th/16th except Sundays; explicitly assigned residential cancellation/refund enquiries to admin. No new contradictions or raw-file changes.
+
+## [2026-09-26] query | Prepare fresh Discord customer-reply pilot
+Created a standalone project outside the vault using Codex and the approved FAQ; four offline checks and six synthetic Codex cases passed. Added [[wiki/sources/2026-09-26-discord-pilot-setup]], linked the chatbot reference and updated index.
+Restored the existing Hermes configuration following Nat’s fresh-build instruction. New Discord app terms approval, installation, token setup and end-to-end test remain pending; no pilot is live.
