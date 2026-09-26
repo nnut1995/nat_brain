@@ -25,6 +25,8 @@ Source: this session's user requirements, local implementation and observed test
 
 - Sales-style revision: Nat requested a welcoming receptionist voice for new Facebook leads and removal of bureaucratic approval wording from customer replies. Updated the standalone prompt; eight synthetic Codex scenarios passed, including beginner conversion, caring extension/refund handover and unchanged pricing/booking rules. Staff decisions remain internal. A live Discord beginner enquiry verified the welcoming trial offer and next-step question in 7.5 seconds. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-26-discord-pilot-setup]])
 
+- Monthly buffet revision: updated the pilot to recommend the 3,990 THB one-month group buffet for regular-training leads, with one session per opening day. Four targeted Codex tests passed, covering regular leads, general prices, daily limits/closures and occasional visitors; the pilot service was restarted with the new prompt. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-26-discord-pilot-setup]])
+
 ## Notable quotes
 - "just ignore the existing resource, just do everything new"
 - "try to use codex first for test"

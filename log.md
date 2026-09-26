@@ -144,3 +144,7 @@ Updated the pilot source, customer-reference status and index; Facebook/LINE rem
 ## [2026-09-26] query | Make pilot replies sales-oriented for new Facebook leads
 Updated owner preferences, customer-reference conversation style, pilot source and index; changed the standalone bot prompt and restarted only the pilot service.
 Eight synthetic Codex cases passed: helpful next steps replace bureaucratic customer-facing deferrals, while approvals and exception decisions remain in the internal note. Existing business policies are unchanged.
+
+## [2026-09-26] query | Promote monthly buffet in the sales chatbot
+Added Nat’s monthly-sales priority to the owner source, customer-reference guidance, pilot record and index; updated and restarted the standalone pilot.
+Four targeted Codex cases passed: regular-training leads get the 3,990 THB buffet, broad enquiries see trial plus monthly, daily limits/closures remain accurate, and occasional visitors receive suitable alternatives.

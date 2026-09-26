@@ -21,6 +21,11 @@ Nat wants a welcoming sales receptionist for new Facebook leads. Answer the ques
 - Customer replies should avoid administrative language such as “ต้องให้แอดมินพิจารณาเป็นกรณีไปนะคะ”. Keep the review requirement in the separate internal note. Ask for the details needed to help: for example, package expiry and intended return date for an extension, or booking name and stay dates for a deposit enquiry. These are proposed phrasing patterns, not new approval guarantees. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Booking example: acknowledge the requested slot and say “ขอเช็กที่ว่างรอบนี้ให้ก่อนนะคะ”. Do not claim confirmation or that any action has already happened. Refunds, health concerns and complaints need a caring response, not a sales pitch. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
+### Monthly buffet emphasis
+Nat wants monthly buffet sales to be a priority. For customers seeking regular training, recommend the **3,990 THB one-month group buffet**, explaining **one group session per day on opening days**, with validity from the first membership class. Ask about preferred start day or time. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-26-n-and-p-price-poster]])
+
+Implementation guidance: in a broad group-price enquiry, briefly present both the 400 THB trial and 3,990 THB buffet, then ask intended frequency. For hesitant beginners who want regular training, the trial can be the first step; no trial-fee credit is promised. For occasional visitors, recommend a relevant single/session pass instead of insisting on monthly membership. Longer memberships should be introduced when relevant; no blanket “cheapest” claim or invented discount. Keep private classes and Stay & Train distinct from the group buffet. This is a sales approach, not a change to package rules. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-26-n-and-p-price-poster]])
+
 ## Prices and class times
 | Offer | Price (THB) | Duration / validity |
 |---|---:|---|
