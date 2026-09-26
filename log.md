@@ -148,3 +148,7 @@ Eight synthetic Codex cases passed: helpful next steps replace bureaucratic cust
 ## [2026-09-26] query | Promote monthly buffet in the sales chatbot
 Added Nat’s monthly-sales priority to the owner source, customer-reference guidance, pilot record and index; updated and restarted the standalone pilot.
 Four targeted Codex cases passed: regular-training leads get the 3,990 THB buffet, broad enquiries see trial plus monthly, daily limits/closures remain accurate, and occasional visitors receive suitable alternatives.
+
+## [2026-09-26] update | Add per-customer Discord conversation threads
+Enabled owner-approved normal-message mode on the fresh pilot: new enquiries create threads; follow-ups use isolated, locally persisted recent history. Updated operational and owner sources, FAQ and index.
+Eight offline tests and a live Codex follow-up passed; Discord confirmed intent enabled and service connected. Final Discord UI round trip awaits Mac unlock. No raw sources changed.

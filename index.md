@@ -32,7 +32,7 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - [[wiki/sources/2026-09-26-n-and-p-price-poster]] — Owner-supplied current group, membership and private prices, validity and training schedule. *(note)*
 - [[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]] — Owner-confirmed customer policies, deposits, two-person sharing for both 30-session pass types, residential closure exceptions and admin handovers. *(transcript)*
 
-- [[wiki/sources/2026-09-26-discord-pilot-setup]] — Active standalone Codex-powered Discord /draft pilot; six synthetic checks and a 9-second Discord reply verified. *(note)*
+- [[wiki/sources/2026-09-26-discord-pilot-setup]] — Active standalone Codex-powered Discord pilot with per-customer threads, separate recent history and normal-message follow-ups. *(note)*
 
 ## Entities
 *People, companies, products, places.*
