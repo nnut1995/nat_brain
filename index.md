@@ -1,7 +1,7 @@
 ---
 title: Index
 type: index
-updated: 2026-09-19
+updated: 2026-09-26
 ---
 
 # Index
@@ -29,6 +29,9 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 
 - [[wiki/sources/2026-09-08-nandpmuaythai-com]] — Live English/Thai website: one-week Stay & Train minimum, daily residential schedule, visitor/payment rules, and published-offer differences. *(note)*
 
+- [[wiki/sources/2026-09-26-n-and-p-price-poster]] — Owner-supplied current group, membership and private prices, validity and training schedule. *(note)*
+- [[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]] — Owner-confirmed customer policies, deposits, facilities, contact and chatbot handover rules. *(transcript)*
+
 ## Entities
 *People, companies, products, places.*
 
@@ -51,6 +54,8 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - [[wiki/concepts/gym-membership-and-check-in]] — Gym membership and check-in.
 
 ## Syntheses
+
+- [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]] — Customer-service reference for planned Facebook/LINE chatbot; confirmed prices and policies, admin handovers, and unresolved exceptions.
 *Cross-source analyses, comparisons, filed query answers.*
 
 - [[wiki/syntheses/n-and-p-google-search-draft]] — Unpublished local Google Search draft and 3,000 THB test proposal; EU political-ad declaration fails to persist, and current 126.62 THB/day needs reconciliation with proposed 98 THB/day.
@@ -89,4 +94,4 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 ---
 
 ## Stats
-updated: 2026-09-19
+updated: 2026-09-26

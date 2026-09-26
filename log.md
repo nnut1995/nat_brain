@@ -124,3 +124,7 @@ Google passkey verification interrupted saving; final ad persistence and the int
 ## [2026-09-19] query | Diagnose Google Ads EU political declaration loop
 Verified the named draft exists; selecting No, reloading and resuming still leaves the declaration missing on review. Recorded the unresolved persistence failure in [[wiki/syntheses/n-and-p-google-search-draft]] and updated index.
 Observed 126.62 THB/day after Nat's budget-page interaction and left it unchanged pending reconciliation with the proposed 98 THB/day. No campaign published or funds added.
+
+## [2026-09-26] ingest | N&P customer chatbot policies and price poster
+Added separate poster and owner-answer sources, plus [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]]; updated gym, Stay & Train, membership, website-source annotations and index.
+Flagged website conflicts on Sunday training and checkout, clarified one-session/day memberships, and recorded deposits and human handovers. Raw files were untouched; Facebook/LINE deployment remains deferred.

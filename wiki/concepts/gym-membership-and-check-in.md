@@ -2,9 +2,9 @@
 title: "Gym membership and check-in"
 type: concept
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-26
 tags: [muay-thai, n-and-p, chatgpt-history]
-sources: ["[[wiki/sources/chatgpt-history/conversations-000]]", "[[wiki/sources/chatgpt-history/conversations-001]]", "[[wiki/sources/chatgpt-history/conversations-004]]"]
+sources: ["[[wiki/sources/chatgpt-history/conversations-000]]", "[[wiki/sources/chatgpt-history/conversations-001]]", "[[wiki/sources/chatgpt-history/conversations-004]]", "[[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]]"]
 ---
 
 # Gym membership and check-in
@@ -20,6 +20,11 @@ Nat wants mobile administration and a member experience without installing anoth
 - QR hardware and LINE-based access are explored options; no selected/deployed solution is established by these requests. ([[wiki/sources/chatgpt-history/conversations-004]])
 - Related gym: [[wiki/entities/n-and-p-boxing-gym]]; data summary: [[wiki/syntheses/n-and-p-chatgpt-history-update]].
 
+## Current customer package rules
+- Memberships allow one session daily; package validity starts at the first class. A 30-session pass can be shared with one other person, with group/private scope to confirm. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Cancellation, rescheduling and no-shows cause no fee or session deduction. No class-package refunds; extensions and other package exceptions require admin. These are business rules, not evidence of a deployed system. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Staff confirm bookings using name, date, time and party size. Walk-ins have no availability guarantee. Customer reference: [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]]. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+
 ## Open questions
 Which system is actually live? How are repeat same-day entries, unknown IDs, package deductions and closure days represented? Nat's historical system/privacy questions do not answer these implementation details. ([[wiki/sources/chatgpt-history/conversations-001]], [[wiki/sources/chatgpt-history/conversations-004]])
 
@@ -27,3 +32,4 @@ Which system is actually live? How are repeat same-day entries, unknown IDs, pac
 - [[wiki/sources/chatgpt-history/conversations-000]]
 - [[wiki/sources/chatgpt-history/conversations-001]]
 - [[wiki/sources/chatgpt-history/conversations-004]]
+- [[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]]

@@ -2,7 +2,7 @@
 title: "N&P website — live offers and visitor guidance, September 2026"
 type: source
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-26
 tags: [muay-thai, gym, website, pricing, booking]
 source_url: https://www.nandpmuaythai.com/
 source_type: note
@@ -60,6 +60,9 @@ Observed in the live Plans section and enquiry selector. No unlimited group memb
 - [[wiki/concepts/muay-thai]]
 
 ## My questions / contradictions
+
+> [!warning] Contradiction / superseded customer guidance — 2026-09-26
+> Nat now specifies **no Sunday Stay & Train training**, **13:00 checkout**, **50% reservation deposit and balance before check-in**, and confirms private AC rooms with Wi-Fi. The daily-training/noon-checkout statements above remain the historical September 8 website observation, not current customer guidance. Owner also confirms monthly/private packages, with memberships limited to one session/day, and selects a new public map link. Trainer English is limited; reception speaks English. Use [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]]; evidence: [[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-26-n-and-p-price-poster]].
 > ⚠️ Contradiction / scope correction — earlier summaries describe the 15th/16th as gym-wide closures. The live site explicitly exempts Stay & Train while closing regular/private lessons. Do not apply the old blanket rule to residential training. ([[wiki/sources/n-and-p-boxing-gym]], [[wiki/sources/2026-05-02-nandpmuaythai-com]], [[wiki/sources/2026-09-08-nandpmuaythai-com]])
 
 > [!warning] Published-offer difference
