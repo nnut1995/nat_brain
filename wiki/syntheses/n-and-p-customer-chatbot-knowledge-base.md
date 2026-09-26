@@ -12,7 +12,7 @@ sources: ["[[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]]", "[[wiki/
 Owner-confirmed reference for [[wiki/entities/n-and-p-boxing-gym]]. Planned for Facebook first and LINE later; deployment is deferred. Reply in the customer's language, defaulting to Thai. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 > [!note] Internal Discord pilot
-> Nat requested a new Codex-powered Discord bot for drafting replies before manually sending them to customers. The standalone implementation passed six synthetic Codex checks; Discord activation is still pending. Setup and status: [[wiki/sources/2026-09-26-discord-pilot-setup]].
+> Nat requested a new Codex-powered Discord bot for drafting replies before manually sending them to customers. The standalone implementation passed six synthetic Codex checks and a real Discord `/draft` round trip. The internal pilot is active; Nat reviews and manually sends customer replies. Setup and status: [[wiki/sources/2026-09-26-discord-pilot-setup]].
 
 ## Prices and class times
 | Offer | Price (THB) | Duration / validity |

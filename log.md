@@ -136,3 +136,7 @@ Confirmed two-person sharing for both group/private 30-session passes and reside
 ## [2026-09-26] query | Prepare fresh Discord customer-reply pilot
 Created a standalone project outside the vault using Codex and the approved FAQ; four offline checks and six synthetic Codex cases passed. Added [[wiki/sources/2026-09-26-discord-pilot-setup]], linked the chatbot reference and updated index.
 Restored the existing Hermes configuration following Nat’s fresh-build instruction. New Discord app terms approval, installation, token setup and end-to-end test remain pending; no pilot is live.
+
+## [2026-09-26] query | Activate and verify N&P Discord pilot
+Nat created/installed the new app and configured its token. Registered /draft, started the standalone macOS background service, and verified a Thai trial-class reply plus internal note in the target Discord channel in 9 seconds.
+Updated the pilot source, customer-reference status and index; Facebook/LINE remain deferred and customers still receive manually reviewed replies. No credentials or customer records were added to the wiki.
