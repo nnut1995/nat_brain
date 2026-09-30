@@ -2,9 +2,9 @@
 title: "N&P Muay Thai — customer chatbot knowledge base"
 type: synthesis
 created: 2026-09-26
-updated: 2026-09-27
+updated: 2026-09-30
 tags: [muay-thai, chatbot, customer-service, booking]
-sources: ["[[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]]", "[[wiki/sources/2026-09-26-n-and-p-price-poster]]", "[[wiki/sources/2026-09-26-discord-pilot-setup]]"]
+sources: ["[[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]]", "[[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]]", "[[wiki/sources/2026-09-26-n-and-p-price-poster]]", "[[wiki/sources/2026-09-26-discord-pilot-setup]]"]
 ---
 
 # N&P Muay Thai — customer chatbot knowledge base
@@ -19,7 +19,7 @@ Nat wants a welcoming sales receptionist for new Facebook leads. Answer the ques
 
 - For a beginner, reassure that beginners are welcome; suggest the 400 THB/60-minute trial when relevant and ask which day suits them. Mention free gloves/wraps if useful. Do not invent discounts, scarcity, availability, training features or promised outcomes. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Customer replies should avoid administrative language such as “ต้องให้แอดมินพิจารณาเป็นกรณีไปนะคะ”. Keep the review requirement in the separate internal note. Ask for the details needed to help: for example, package expiry and intended return date for an extension, or booking name and stay dates for a deposit enquiry. These are proposed phrasing patterns, not new approval guarantees. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
-- Booking example: acknowledge the requested slot and say “ขอเช็กที่ว่างรอบนี้ให้ก่อนนะคะ”. Do not claim confirmation or that any action has already happened. Refunds, health concerns and complaints need a caring response, not a sales pitch. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Booking example for ordinary classes: invite the customer to submit name, date, time and number of people, asking only for missing details. Once supplied, acknowledge the requested slot without saying availability or queue space will be checked, and without confirming or reserving the booking. Staff handle a full session themselves; staff review belongs only in the internal note. For example: “รับทราบค่ะคุณแนน ต้องการมาเรียนวันที่ 2 ตุลาคม เวลา 18:00 น. จำนวน 1 คนนะคะ”. Refunds, health concerns and complaints need a caring response, not a sales pitch. ([[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]])
 
 ### Monthly buffet emphasis
 Nat wants monthly buffet sales to be a priority. For customers seeking regular training, recommend the **3,990 THB one-month group buffet**, explaining **one group session per day on opening days**, with validity from the first membership class. Ask about preferred start day or time. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-26-n-and-p-price-poster]])
@@ -46,13 +46,13 @@ Prices are owner-confirmed from the poster. Trial has no discount; package valid
 - Capacity: six students, larger groups by request. Beginners welcome; sparring is optional, even though it occurs in most classes. Tell the trainer if opting out. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ## Booking and payment
-- Collect **name, date, time, number of people**. Staff must confirm every booking. Walk-ins are welcome, but availability is not guaranteed. Do not promise an open slot or a particular trainer before staff confirm. Customers may choose a trainer. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Collect **name, date, time, number of people**, asking only for missing details and accepting ordinary class booking requests directly. Do not say the bot will check queue space or availability. After the customer supplies their preferred time, acknowledge the request but do not confirm a booking or reserve a slot; staff respond themselves if the session is full. Keep staff review in the internal note (`needs_admin=true`), not as a customer-facing precondition. Walk-ins are welcome without guaranteed capacity. Customers may choose a trainer without a guarantee. Stay & Train room availability still requires staff review. ([[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]], [[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Pay after class by cash or bank transfer. Class packages are non-refundable. Cancellation, rescheduling and no-shows have no fee or session deduction. If the next class is waiting, a late arrival finishes at the original end time; do not promise make-up time otherwise. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Both group and private 30-session packages can be shared between two people. Other sharing, transfer, freeze or extension requests go to admin. Extensions are discretionary. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ## First visit, children and facilities
 - Sportswear is sufficient; gloves and wraps are free to borrow. Showers and parking are free; water is sold; no lockers. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
-- Children around ages 5–6 can attend and usually train separately. No special admin gate is required for routine children's enquiries beyond ordinary booking confirmation. Do not advertise a guaranteed separate class or a strict minimum age; refer unusual age questions to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Children around ages 5–6 can attend. Training arrangements are unspecified in customer replies: do not infer them from older thread responses. No special admin gate is required for routine children's enquiries beyond ordinary booking review. Do not invent a strict minimum age; refer unusual age questions to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]])
 - Trainers speak Thai and a little English; reception speaks English. Refer injury and health-condition enquiries to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ## Stay & Train

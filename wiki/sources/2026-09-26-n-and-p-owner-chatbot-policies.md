@@ -2,7 +2,7 @@
 title: "N&P owner answers — customer chatbot policies"
 type: source
 created: 2026-09-26
-updated: 2026-09-27
+updated: 2026-09-30
 tags: [muay-thai, customer-service, booking, owner-confirmed]
 source_type: transcript
 ---
@@ -25,7 +25,10 @@ Source: Nat's questionnaire replies and final policy clarifications in this conv
 - Both group and private 30-session packages may be shared with one other person (two people total). Other sharing, transfer, freeze and extension requests go to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 
 ### Training and facilities
-- Children around ages 5–6 can attend and usually train separately. Nat does not require routine admin confirmation for children's visits; do not invent a strict minimum age or guaranteed separate class. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
+- Children around ages 5–6 can attend. Nat does not require routine admin confirmation for children's visits; do not invent a strict minimum age. Training-arrangement wording was withdrawn by Nat on September 30; use the newer clarification for replies. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]], [[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]])
+
+> [!warning] Superseded children's and booking-reply wording
+> On September 30 Nat withdrew the previous children's training-arrangement claim and requested ordinary booking details be collected without proactive availability-check wording. A supplied time is only a request, not a confirmed booking; staff handle full sessions. Older chatbot replies must not restore these withdrawn statements. See [[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]].
 - Complete beginners may join group classes. Sparring occurs in most classes but is optional; customers can tell the trainer they do not want it. Capacity is six, with larger groups by request. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Gloves and wraps are free to borrow; sportswear is sufficient. Showers and parking are free, drinking water is sold, and lockers are unavailable. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])
 - Customers may choose a trainer; trainers speak Thai and a little English, while reception can communicate in English. Injury/health enquiries go to admin. ([[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]])

@@ -1,7 +1,7 @@
 ---
 title: Index
 type: index
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 # Index
@@ -30,6 +30,7 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - [[wiki/sources/2026-09-08-nandpmuaythai-com]] — Live English/Thai website: one-week Stay & Train minimum, daily residential schedule, visitor/payment rules, and published-offer differences. *(note)*
 
 - [[wiki/sources/2026-09-26-n-and-p-price-poster]] — Owner-supplied current group, membership and private prices, validity and training schedule. *(note)*
+- [[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]] — Owner removes children's training-arrangement claims; class requests collect details directly with no availability-check wording or automatic confirmation. *(transcript)*
 - [[wiki/sources/2026-09-26-n-and-p-owner-chatbot-policies]] — Owner-confirmed customer policies, deposits, two-person sharing for both 30-session pass types, residential closure exceptions and admin handovers. *(transcript)*
 
 - [[wiki/sources/2026-09-26-discord-pilot-setup]] — Active standalone Codex-powered Discord pilot with per-customer threads, separate recent history, normal-message follow-ups and persistent admin takeover pauses. *(note)*
@@ -96,4 +97,4 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 ---
 
 ## Stats
-updated: 2026-09-26
+updated: 2026-09-30

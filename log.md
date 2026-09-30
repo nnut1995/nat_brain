@@ -156,3 +156,7 @@ Eight offline tests and a live Codex follow-up passed; Discord confirmed intent 
 ## [2026-09-27] update | Pause Discord threads for admin takeover
 Implemented persistent per-thread handover on customer requests, with one internal note and suppression of further automated replies. Updated owner policy, FAQ, pilot record and index; eleven offline tests passed.
 Found the selected gpt-6-luna unsupported by the current CLI login; asked Nat about restoring the previous default. Direct semantic evaluation and Discord end-to-end takeover remain unverified.
+
+## [2026-09-30] ingest | Correct children's and ordinary class booking replies
+Recorded Nat's direct corrections in [[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]], updated the customer FAQ and earlier owner-policy source, and linked the new source in index. Removed children's training-arrangement claims; ordinary class requests collect details without availability-check wording and acknowledge requested times without confirming bookings. Staff handle full sessions; Stay & Train review remains unchanged.
+Updated the running pilot's generation instructions and regression checks. Four failures reproduced before the fix; all five targeted live scenarios, twelve general live scenarios and fourteen offline tests passed afterward, including follow-ups with obsolete thread context. Raw files and existing customer histories were untouched.
