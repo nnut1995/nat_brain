@@ -1,0 +1,22 @@
+Stay & Train website gallery — 2026-10-02
+
+Recommended order
+1. 01-bed-by-window.jpg — original photo 3; strongest welcoming bedroom view.
+2. 02-room-and-air-conditioning.jpg — original photo 5; shows the bed, desk and air conditioning together.
+3. 03-window-and-storage.jpg — original photo 7; landscape supporting view of windows and storage.
+
+Use JPEG files for website uploads. PNG files are the enhanced masters.
+Open preview.html for original/enhanced comparisons and suggested alt text.
+Original photos are unchanged. These files have not been uploaded to the live website.
+
+Omitted photos
+1, 2, 6: redundant clothes-rack views; little extra information.
+4: overlaps with photo 5, with a less balanced frame.
+8: overlaps with landscape photo 7.
+9: closed curtains obscure the view.
+10: overlaps with photo 3, with curtains closed and the air conditioner cut off.
+
+Edits use the built-in imagegen tool. AI retouching can alter small texture, bedding and lettering details; compare against originals before publishing.
+
+Final prompt used for each of photos 3, 5 and 7:
+Use case: lighting-weather. Asset type: real accommodation website gallery photograph. Input image is the sole edit target. Apply restrained photographic retouching only: gently lift interior shadows, balance exposure, neutralize blue/yellow casts while retaining warm brown wood, protect window highlights and real exterior scenery, subtle natural detail sharpening and noise reduction. Straighten camera roll and gently correct converging verticals by cropping only, no generative expansion. Preserve exact room proportions, all architectural openings, wall and floor materials, ceiling panels, furniture and their positions, curtain positions, bedding patterns, printed blanket lettering, visible wiring/outlets, air conditioner and all real amenities. Do not add/remove objects, stage decor, change bedding, invent scenery, renovate surfaces or make room bigger. Maintain original aspect ratio. No added text, graphics, border, watermark. Output one single edited photo, no collage.
