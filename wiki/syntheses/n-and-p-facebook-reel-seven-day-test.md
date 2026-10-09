@@ -2,12 +2,17 @@
 title: "N&P Facebook Reel — ทดสอบหานักเรียนใหม่ 7 วัน"
 type: synthesis
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-09
 tags: [n-and-p, facebook-ads, acquisition]
 sources: ["[[wiki/sources/n-and-p-boxing-gym]]", "[[wiki/sources/2026-05-02-nandpmuaythai-com]]"]
 ---
 
 # N&P Facebook Reel — ทดสอบหานักเรียนใหม่ 7 วัน
+
+
+> ⚠️ Contradiction / dated status update — 2026-10-09: The setup record below describes an unpublished draft at that time. The later report shows delivered ads despite DRAFT in the campaign name. Use [[wiki/sources/2026-10-09-n-and-p-meta-ads-report]] for measured performance; publication timing is unverified. Preserve the historical setup values rather than assuming they are current.
+
+See [[wiki/syntheses/n-and-p-marketing-statistics]] for saved daily reports and refresh instructions.
 
 ## ขอบเขตที่ตกลง
 

@@ -1,7 +1,7 @@
 ---
 title: Index
 type: index
-updated: 2026-09-30
+updated: 2026-10-09
 ---
 
 # Index
@@ -35,6 +35,10 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 
 - [[wiki/sources/2026-09-26-discord-pilot-setup]] — Active standalone Codex-powered Discord pilot with per-customer threads, separate recent history, normal-message follow-ups and persistent admin takeover pauses. *(note)*
 
+- [[wiki/sources/2026-10-09-n-and-p-meta-ads-report]] — Meta campaign daily figures, attribution and delivery evidence, September 9–October 8 request.
+- [[wiki/sources/2026-10-09-n-and-p-google-ads-report]] — Google Ads daily figures and delivered-campaign ID, September 9–October 8 request.
+- [[wiki/sources/2026-10-09-n-and-p-search-console-report]] — Organic search daily figures and query breakdown, with coverage gaps.
+
 ## Entities
 *People, companies, products, places.*
 
@@ -58,12 +62,14 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 
 ## Syntheses
 
+- [[wiki/syntheses/n-and-p-marketing-statistics]] — Start here for saved marketing statistics, exact report requests and refresh instructions.
+
 - [[wiki/syntheses/n-and-p-customer-chatbot-knowledge-base]] — Sales-oriented customer reference for new Facebook leads; monthly buffet recommendations, trial entry, confirmed policies and separate internal handovers.
 *Cross-source analyses, comparisons, filed query answers.*
 
-- [[wiki/syntheses/n-and-p-google-search-draft]] — Unpublished local Google Search draft and 3,000 THB test proposal; EU political-ad declaration fails to persist, and current 126.62 THB/day needs reconciliation with proposed 98 THB/day.
+- [[wiki/syntheses/n-and-p-google-search-draft]] — Historical Google Search setup and 3,000 THB proposal; October report now shows delivery under a different campaign ID, with the dated status difference flagged.
 
-- [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] — แผนและฉบับร่าง Facebook Ads งบ 1,400 บาท / 7 วัน พร้อม Conversations ภาษาไทยและเกณฑ์ ROI; ยังไม่ Publish.
+- [[wiki/syntheses/n-and-p-facebook-reel-seven-day-test]] — Historical Facebook Ads setup, Thai Conversations copy and ROI criteria; October report now shows delivery, with the dated status difference flagged.
 
 - [[wiki/syntheses/n-and-p-pricing-strategy]] — Yield-management pricing strategy for N&P: split unlimited into Off-Peak vs All-Access, re-anchor long tiers, cap peak bookings, lift privates; decide freelance vs hour-extension only after pricing reform.
 - [[wiki/syntheses/n-and-p-ice-bath-roi-and-pricing]] — ROI model and pricing strategy for a ~100,000 THB ice bath/cold plunge investment: avoid free unlimited use, launch with a 600 THB class + recovery bundle, and target 2+ paid uses/day for 12-month payback.
@@ -97,4 +103,4 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 ---
 
 ## Stats
-updated: 2026-09-30
+updated: 2026-10-09

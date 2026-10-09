@@ -160,3 +160,7 @@ Found the selected gpt-6-luna unsupported by the current CLI login; asked Nat ab
 ## [2026-09-30] ingest | Correct children's and ordinary class booking replies
 Recorded Nat's direct corrections in [[wiki/sources/2026-09-30-n-and-p-booking-reply-clarifications]], updated the customer FAQ and earlier owner-policy source, and linked the new source in index. Removed children's training-arrangement claims; ordinary class requests collect details without availability-check wording and acknowledge requested times without confirming bookings. Staff handle full sessions; Stay & Train review remains unchanged.
 Updated the running pilot's generation instructions and regression checks. Four failures reproduced before the fix; all five targeted live scenarios, twelve general live scenarios and fourteen offline tests passed afterward, including follow-ups with obsolete thread context. Raw files and existing customer histories were untouched.
+
+## [2026-10-09] ingest | Save N&P marketing performance snapshots
+Added separate Meta Ads, Google Ads and Search Console sources with exact read requests and returned JSON rows, plus [[wiki/syntheses/n-and-p-marketing-statistics]] as the reusable reporting hub. Updated index and annotated both historical campaign setup pages with later delivery evidence.
+Requested September 9–October 8; Search Console returned September 12–October 6 only. Preserved missing-data and attribution limits; raw files untouched, no campaign changes and no recurring refresh configured.

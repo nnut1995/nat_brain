@@ -2,12 +2,17 @@
 title: "N&P Google Search — local trial campaign draft"
 type: synthesis
 created: 2026-09-19
-updated: 2026-09-19
+updated: 2026-10-09
 tags: [n-and-p, google-ads, acquisition, draft, roas]
 sources: ["[[wiki/sources/2026-09-08-nandpmuaythai-com]]", "[[wiki/sources/n-and-p-boxing-gym]]"]
 ---
 
 # N&P Google Search — local trial campaign draft
+
+
+> ⚠️ Contradiction / dated status update — 2026-10-09: The setup record below describes an unpublished draft at that time. The later report shows delivered ads despite DRAFT in the campaign name. Use [[wiki/sources/2026-10-09-n-and-p-google-ads-report]] for measured performance; publication timing is unverified. Preserve the historical setup values rather than assuming they are current.
+
+See [[wiki/syntheses/n-and-p-marketing-statistics]] for saved daily reports and refresh instructions.
 
 ## Owner direction and status
 
