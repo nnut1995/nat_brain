@@ -25,8 +25,8 @@ Travel-agent counterparty appearing in N&P quotation and billing correspondence.
 | Muay Thai shorts | 1,000 | Nat confirmed |
 | Hand wraps | 350 | Nat confirmed |
 | Rajadamnern ticket, Ringside | 2,500 | Nat confirmed |
-| Rajadamnern ticket, VIP (Presidential Box) | 3,500 | Draft at public price, awaiting Nat |
-| Rajadamnern ticket, Club Class | 1,800 | Draft at public price, awaiting Nat |
+| Rajadamnern ticket, VIP (Presidential Box) | 3,500 | Nat confirmed (stadium price) |
+| Rajadamnern ticket, Club Class | 1,800 | Nat confirmed (stadium price) |
 
 Nat's rates from [[wiki/sources/2026-10-28-exo-travel-2027-rate-request]]; stadium prices from [[wiki/sources/2026-10-28-rajadamnern-ticket-prices]]. Same N&P rates as the 2025 quote. Reply drafted 2026-10-28, not yet sent.
 
