@@ -2,9 +2,9 @@
 title: "EXO Travel"
 type: entity
 created: 2026-09-08
-updated: 2026-09-08
-tags: [muay-thai, n-and-p, chatgpt-history]
-sources: ["[[wiki/sources/chatgpt-history/conversations-001]]"]
+updated: 2026-10-28
+tags: [muay-thai, n-and-p, chatgpt-history, agent-rates]
+sources: ["[[wiki/sources/chatgpt-history/conversations-001]]", "[[wiki/sources/2026-10-28-exo-travel-2027-rate-request]]", "[[wiki/sources/2026-10-28-rajadamnern-ticket-prices]]"]
 ---
 
 # EXO Travel
@@ -16,12 +16,28 @@ Travel-agent counterparty appearing in N&P quotation and billing correspondence.
 - Requested 2024–2025 agent contract rates so trips could be promoted ahead of time. ([[wiki/sources/chatgpt-history/conversations-001]])
 - N&P's supplied 2025 quote covers Muay Thai lessons, ringside tickets, embroidered shorts and wraps. ([[wiki/sources/chatgpt-history/conversations-001]])
 - Nat requested advance payment for one booking to reserve services and noted that ticket prices can vary by stadium. ([[wiki/sources/chatgpt-history/conversations-001]])
+- Contact: Chompoo (EXO Travel Thailand). Contract signatory: Mr. Jeremy Hofmann, Head of Product & Contracting, jeremy@exotravel.com. ([[wiki/sources/2026-10-28-exo-travel-2027-rate-request]])
+
+## Rates for 2027 (valid until 31 Oct 2027)
+| Item | THB per person | Status |
+|---|---|---|
+| Muay Thai session for tour guests | 700 | Nat confirmed |
+| Muay Thai shorts | 1,000 | Nat confirmed |
+| Hand wraps | 350 | Nat confirmed |
+| Rajadamnern ticket, Ringside | 2,500 | Nat confirmed |
+| Rajadamnern ticket, VIP (Presidential Box) | 3,500 | Draft at public price, awaiting Nat |
+| Rajadamnern ticket, Club Class | 1,800 | Draft at public price, awaiting Nat |
+
+Nat's rates from [[wiki/sources/2026-10-28-exo-travel-2027-rate-request]]; stadium prices from [[wiki/sources/2026-10-28-rajadamnern-ticket-prices]]. Same N&P rates as the 2025 quote. Reply drafted 2026-10-28, not yet sent.
 
 ## Relationships
 - Gym/service provider: [[wiki/entities/n-and-p-boxing-gym]]. ([[wiki/sources/chatgpt-history/conversations-001]])
 
 ## Timeline
 - 2024–2025 rate period: quotation request and 2025 quote preparation in the archive. Later contract renewal or payment completion is not established. ([[wiki/sources/chatgpt-history/conversations-001]])
+- 2026-10-28: EXO requested 2027 rates (valid until 31 Oct 2027) incl. Rajadamnern VIP, Club Class and Ringside; reply drafted. ([[wiki/sources/2026-10-28-exo-travel-2027-rate-request]])
 
 ## Sources
 - [[wiki/sources/chatgpt-history/conversations-001]]
+- [[wiki/sources/2026-10-28-exo-travel-2027-rate-request]]
+- [[wiki/sources/2026-10-28-rajadamnern-ticket-prices]]

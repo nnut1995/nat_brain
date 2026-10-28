@@ -39,6 +39,9 @@ Catalog of every page in the wiki. Updated on every ingest. The LLM reads this f
 - [[wiki/sources/2026-10-09-n-and-p-google-ads-report]] — Google Ads daily figures and delivered-campaign ID, September 9–October 8 request.
 - [[wiki/sources/2026-10-09-n-and-p-search-console-report]] — Organic search daily figures and query breakdown, with coverage gaps.
 
+- [[wiki/sources/2026-10-28-exo-travel-2027-rate-request]] — EXO Travel asks for rates valid to 31 Oct 2027; Nat's session, shorts, wraps and ringside rates. *(transcript)*
+- [[wiki/sources/2026-10-28-rajadamnern-ticket-prices]] — Rajadamnern public seat prices by category, weeknight vs Saturday RWS, checked 28 Oct 2026. *(note)*
+
 ## Entities
 *People, companies, products, places.*
 

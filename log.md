@@ -164,3 +164,7 @@ Updated the running pilot's generation instructions and regression checks. Four 
 ## [2026-10-09] ingest | Save N&P marketing performance snapshots
 Added separate Meta Ads, Google Ads and Search Console sources with exact read requests and returned JSON rows, plus [[wiki/syntheses/n-and-p-marketing-statistics]] as the reusable reporting hub. Updated index and annotated both historical campaign setup pages with later delivery evidence.
 Requested September 9–October 8; Search Console returned September 12–October 6 only. Preserved missing-data and attribution limits; raw files untouched, no campaign changes and no recurring refresh configured.
+
+## [2026-10-28] ingest | EXO Travel 2027 rate request and Rajadamnern ticket prices
+Added [[wiki/sources/2026-10-28-exo-travel-2027-rate-request]] (Nat's 2027 rates: session 700, shorts 1,000, wraps 350, ringside 2,500 THB) and [[wiki/sources/2026-10-28-rajadamnern-ticket-prices]] (official ticket links, checked today). Updated [[wiki/entities/exo-travel]] with contact, signatory and a 2027 rate table; VIP and Club Class await Nat's markup decision.
+Reply drafted in project files (marketing/exo-travel-2027-rates-reply.md), not sent. No raw files changed.
