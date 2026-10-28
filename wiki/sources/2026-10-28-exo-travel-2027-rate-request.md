@@ -20,6 +20,7 @@ source_type: transcript
 - Nat's rates (28 Oct 2026, in chat): private Muay Thai session 700 THB, Muay Thai shorts 1,000 THB, Rajadamnern ringside ticket 2,500 THB, hand wraps 350 THB. These match the 2025 quote ([[wiki/sources/chatgpt-history/conversations-001]]).
 - VIP (Presidential Box) 3,500 and Club Class 1,800 THB: Nat chose to quote the stadium public prices ([[wiki/sources/2026-10-28-rajadamnern-ticket-prices]]), like ringside.
 - Draft reply (not sent): project file `marketing/exo-travel-2027-rates-reply.md`.
+- Follow-up the same day: EXO asked for booking conditions, payment terms and cancellation policy. Nat's answers: book 1 week ahead; payment after service; gym sessions can be cancelled, tickets cannot, personalised shorts cannot once cut. Draft: `marketing/exo-travel-booking-terms-reply.md`.
 
 ## Notable quotes
 - "rates valid from now until 31 October 2027" (EXO's email)

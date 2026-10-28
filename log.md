@@ -168,3 +168,7 @@ Requested September 9–October 8; Search Console returned September 12–Octobe
 ## [2026-10-28] ingest | EXO Travel 2027 rate request and Rajadamnern ticket prices
 Added [[wiki/sources/2026-10-28-exo-travel-2027-rate-request]] (Nat's 2027 rates: session 700, shorts 1,000, wraps 350, ringside 2,500 THB) and [[wiki/sources/2026-10-28-rajadamnern-ticket-prices]] (official ticket links, checked today). Updated [[wiki/entities/exo-travel]] with contact, signatory and a 2027 rate table; VIP 3,500 and Club Class 1,800 at stadium price (Nat confirmed).
 Reply drafted in project files (marketing/exo-travel-2027-rates-reply.md), not sent. No raw files changed.
+
+## [2026-10-28] ingest | EXO Travel booking, payment and cancellation terms
+Added Nat's terms for EXO to [[wiki/sources/2026-10-28-exo-travel-2027-rate-request]] and [[wiki/entities/exo-travel]]: book 1 week ahead, payment after service, gym sessions cancellable, stadium tickets and cut personalised shorts not.
+Reply drafted in project files (marketing/exo-travel-booking-terms-reply.md), not sent.

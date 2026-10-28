@@ -30,12 +30,18 @@ Travel-agent counterparty appearing in N&P quotation and billing correspondence.
 
 Nat's rates from [[wiki/sources/2026-10-28-exo-travel-2027-rate-request]]; stadium prices from [[wiki/sources/2026-10-28-rajadamnern-ticket-prices]]. Same N&P rates as the 2025 quote. Reply drafted 2026-10-28, not yet sent.
 
+## Booking, payment and cancellation terms (Nat, 2026-10-28)
+- Booking: at least 1 week before the service date.
+- Payment: after the service has been provided; no deposit.
+- Cancellation: gym Muay Thai sessions can be cancelled; Rajadamnern tickets cannot be cancelled once booked; shorts cannot be cancelled once cut and personalised.
+([[wiki/sources/2026-10-28-exo-travel-2027-rate-request]])
+
 ## Relationships
 - Gym/service provider: [[wiki/entities/n-and-p-boxing-gym]]. ([[wiki/sources/chatgpt-history/conversations-001]])
 
 ## Timeline
 - 2024–2025 rate period: quotation request and 2025 quote preparation in the archive. Later contract renewal or payment completion is not established. ([[wiki/sources/chatgpt-history/conversations-001]])
-- 2026-10-28: EXO requested 2027 rates (valid until 31 Oct 2027) incl. Rajadamnern VIP, Club Class and Ringside; reply drafted. ([[wiki/sources/2026-10-28-exo-travel-2027-rate-request]])
+- 2026-10-28: EXO requested 2027 rates (valid until 31 Oct 2027) incl. Rajadamnern VIP, Club Class and Ringside; reply drafted. EXO then asked for booking, payment and cancellation terms; Nat answered the same day. ([[wiki/sources/2026-10-28-exo-travel-2027-rate-request]])
 
 ## Sources
 - [[wiki/sources/chatgpt-history/conversations-001]]
