@@ -17,7 +17,7 @@ source_type: transcript
 ## Key claims
 - EXO plans tariffs a year ahead for its global partners; the request covers now until 31 October 2027.
 - Contract signatory for EXO: Mr. Jeremy Hofmann, Head of Product & Contracting (jeremy@exotravel.com, +66 2633 9060). EXO attached company documents for contract signing.
-- Nat's rates (28 Oct 2026, in chat): Muay Thai session for tour guests 700 THB, Muay Thai shorts 1,000 THB, Rajadamnern ringside ticket 2,500 THB, hand wraps 350 THB. These match the 2025 quote ([[wiki/sources/chatgpt-history/conversations-001]]).
+- Nat's rates (28 Oct 2026, in chat): private Muay Thai session 700 THB, Muay Thai shorts 1,000 THB, Rajadamnern ringside ticket 2,500 THB, hand wraps 350 THB. These match the 2025 quote ([[wiki/sources/chatgpt-history/conversations-001]]).
 - VIP (Presidential Box) 3,500 and Club Class 1,800 THB: Nat chose to quote the stadium public prices ([[wiki/sources/2026-10-28-rajadamnern-ticket-prices]]), like ringside.
 - Draft reply (not sent): project file `marketing/exo-travel-2027-rates-reply.md`.
 

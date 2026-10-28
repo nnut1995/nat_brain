@@ -21,7 +21,7 @@ Travel-agent counterparty appearing in N&P quotation and billing correspondence.
 ## Rates for 2027 (valid until 31 Oct 2027)
 | Item | THB per person | Status |
 |---|---|---|
-| Muay Thai session for tour guests | 700 | Nat confirmed |
+| Private Muay Thai session | 700 | Nat confirmed |
 | Muay Thai shorts | 1,000 | Nat confirmed |
 | Hand wraps | 350 | Nat confirmed |
 | Rajadamnern ticket, Ringside | 2,500 | Nat confirmed |
